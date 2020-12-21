@@ -1,0 +1,9 @@
+<a routerLink="/post/{{ post.id }}">
+  <div class="item" data-test="posting">
+    <h6 class="item-title" data-test="posting-name">
+      {{post.name}}
+      <span> - {{post?.department.name}}</span>
+    </h6>
+    <div class="item-subtitle" data-test="posting-location">{{post?.city}}, {{post?.country.name}}</div>
+  </div>
+</a>

@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+//color variables
+$primary-green: #009839;
+$secondary-green:#00AE41;
+$dark-green: #16772c;
+$dark-grey:#444444;
+$light-grey:#7f93a7;
+
+//Bootstrap theme override
+$theme-colors: (
+    "primary-green": $primary-green,
+    "secondary-green": $secondary-green,
+    "dark-green": $dark-green,
+    "dark-grey": $dark-grey,
+    "light-grey": $light-grey
+);
+@import "node_modules/bootstrap/scss/bootstrap";

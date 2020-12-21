@@ -1,0 +1,5 @@
+<div class="my-5">
+  <div *ngFor="let post of postsList | country: countryFilter | department: departmentFilter">
+    <post-list-item [post]="post"></post-list-item>
+  </div>
+</div>

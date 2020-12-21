@@ -1,0 +1,26 @@
+<div class="item mt-5 pt-5 mx-3">
+  <a routerLink="/" data-test="back">
+    <i class="fa fa-arrow-left"> </i>
+    back to the list
+  </a>
+  <h4 class="item-title mt-3 pt-3" data-test="posting-name">{{post?.name}}</h4>
+  <div class="item-subtitle" data-test="posting-location">{{post?.city}}, {{post?.country?.name}}</div>
+
+  <h5 class="item-subtitle mt-3 pt-3">Company</h5>
+  <div class="item-description">{{post?.companyName}}</div>
+  
+  <h5 class="item-subtitle mt-3 pt-3">Department</h5>
+  <div class="item-description">{{post?.department.name}}</div>
+
+  <h5 class="item-subtitle mt-3 pt-3">Company Description</h5>
+  <div class="item-description" [innerHtml]="post?.companyDescription"></div>
+
+  <h5 class="item-subtitle mt-3 pt-3">Job Description</h5>
+  <div class="item-description" [innerHtml]="post?.jobDescription" data-test="job-description"></div>
+
+  <h5 class="item-subtitle mt-3 pt-3">Qualifications</h5>
+  <div class="item-description" [innerHtml]="post?.qualifications" data-test="job-qualifications"></div>
+
+  <h5 class="item-subtitle mt-3 pt-3">Additional information</h5>
+  <div class="item-description" [innerHtml]="post?.additionalInfo"></div>
+</div>

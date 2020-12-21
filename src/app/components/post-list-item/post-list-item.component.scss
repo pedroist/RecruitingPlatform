@@ -1,0 +1,38 @@
+@import '../../../styles.scss';
+
+
+a{
+    color: black;
+
+    &:hover{
+        color: black;
+        text-decoration: unset;
+
+        .item-title{
+            text-decoration: underline;
+        }
+    }
+}
+
+.item{
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+    margin-top: 6px;
+    padding: 20px 20px;
+
+    &:hover{
+        cursor: pointer;
+    }
+    
+    &-title{
+        margin-bottom: 0px;
+
+    }
+
+    &-subtitle{
+        color: $light-grey;
+
+        &:hover{
+
+        }
+    }
+}

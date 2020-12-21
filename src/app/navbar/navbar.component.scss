@@ -1,0 +1,37 @@
+@import "../../styles.scss";
+
+
+.navbar {
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,.2);
+    padding: 0.3rem 1rem;
+
+    &-brand{
+        display: flex;
+        flex-direction: row;
+
+        &-img{
+            height: 40px;
+            width: 40px;
+            // background: url("../../assets/sr_logo.png") 35% 50% / cover;
+            background-image: url("../../assets/sr_logo.png");
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            background-size: contain;
+            margin-right: 20px;
+            margin-right: 20px;
+            margin-top: 4px;
+        }
+
+        &-title {
+            font-size: 2rem;
+            padding: 0;
+            color: white;
+        
+            &:hover {
+                font-weight: 550;
+                color: white;
+                text-decoration: none;
+            }
+        }
+    }
+}

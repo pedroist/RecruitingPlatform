@@ -1,0 +1,12 @@
+<div class="mt-3 pt-3 mx-3">
+  <h1 class="mt-3 pt-2 title">Job Opportunities</h1>
+  <filter-panel 
+    (countryFilterOut)="onCountryFilterChange($event)"
+    (departmentFilterOut)="onDepartmentFilterChange($event)">
+  </filter-panel>
+  <post-list
+    [postsList]="postsList"
+    [countryFilter]="countryFilter"
+    [departmentFilter]="departmentFilter">
+  </post-list>
+</div>

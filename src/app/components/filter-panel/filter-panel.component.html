@@ -1,0 +1,27 @@
+<div class="row mt-4 pt-4 justify-content-center">
+  <!-- Select box - Country -->
+  <div class="col-md-4 row-4 mt-2 mb-2">
+    <select
+      class="form-control w-md-75"
+      [(ngModel)]="countryFilter"
+      (ngModelChange)="onCountryChange()">
+        <option *ngFor="let country of countryOptions"
+        [ngValue]="country">
+          {{country.name}}
+        </option>
+    </select>
+  </div>
+
+  <!-- Select box - Department -->
+  <div class="col-md-4 row-4 mt-2 mb-2">
+      <select
+        class="form-control w-md-75"
+        [(ngModel)]="departmentFilter"
+        (ngModelChange)="onDepartmentChange($event)">
+          <option *ngFor="let department of departmentOptions"
+          [ngValue]="department">
+            {{department.name}}
+          </option>
+      </select>
+    </div>
+</div>
