@@ -1,0 +1,103 @@
+{
+   "id":"743999723034767",
+   "name":"Senior Data Scientist - Candidate Insights Team",
+   "uuid":"3b86c643-742b-43a1-9b17-c7cf4cea3f15",
+   "refNumber":"REF849B",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Berlin",
+      "region":"Berlin",
+      "country":"de",
+      "address":"Wilhelmstraße 118",
+      "postalCode":"10963",
+      "remote":false
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18571",
+         "valueLabel":"Engineering"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"de",
+         "valueLabel":"Alemanha"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+         "valueLabel":"P1"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:46.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219156-senior-data-scientist-candidate-insights-team",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219156-senior-data-scientist-candidate-insights-team?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/3b86c643-742b-43a1-9b17-c7cf4cea3f15?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! </p><p>In 10 years, we expanded our customer base to 4000 companies. Our platform is used by hiring teams of Twitter, Visa, Ubisoft, CD Project RED, or McDonald’s. We also helped over 50 million candidates through their job search journey.</p><p>We offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. This is a casual and pet-friendly place. We pride ourselves on being a product first organization, and we have a spot open on our Candidate Insights Team!</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>We are looking for a Senior Data Scientist to join our Search &amp; Analytics team that builds innovative, data-driven recruiting services. You’ll solve complex data problems like predicting how well a candidate will fit a job. Working closely with dedicated software engineers, you’ll create classifiers and machine learning models to clean up and categorize raw data. It will be your responsibility to constantly analyse and experiment with prediction quality and find new ways to make sense of data to better support recruiting processes.</p><p>We partner and collaborate with R&amp;D leaders, product managers, engineers, and business leaders to design and develop data-driven solutions that have the power to significantly change the way people find career opportunities, and how companies hire best talent.</p><p>We rely on collaborative, self-organizing teams and lean software development processes. We use a variety of tools and technologies to achieve this. Our products are used by a large number of customers and affect the experience of millions of job candidates.</p><p>As a key member of our team you’ll have an unique opportunity to help us achieve our goals using cutting-edge technology.</p><p><strong>Responsibilities:</strong></p><ul><li>Develop methods and data products that create new opportunities that are impactful to our customers and candidates alike</li><li>Partner with R&amp;D and Product Management, ensure SmartRecruiters stays ahead of the latest advances in Data Science (ML/NLP)</li><li>Synthesize complex and diverse datasets, e.g. resumes, job description, user behaviour, industry data, etc, to build and improve product features</li><li>Advocacy: Lead data initiatives and foster a data culture, encourage and advocate for a team-wide data-first mindset by connecting data projects to business goals, teams, and stakeholders</li><li>Support in planning data projects by providing technical guidance and facilitating smooth releases.</li><li>Continuous improvement of existing systems by actively monitoring the production models</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>5+ years of experience actively working with relevant topics such as Data mining, Data Modelling, Exploratory Data analysis and Statistical Inference</li><li>Master’s/PhD degree in statistics, applied mathematics, computer science or a related field</li><li>Knowledge of statistical and machine learning approaches to NLP</li><li>Experience with Recommender Systems</li><li>Proficiency in Python</li><li>Habit of writing clean, readable, well-organized, and well-tested code</li><li>Desire to work in a high-paced, agile development environment</li><li>Bonus: experience with graph databases and the semantic web</li><li>Excellent communication skills in English</li><li>Experience with Apache Spark and AWS EMR is a plus</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>You will join us during arguably the most interesting stage of our company. This is an opportunity for you to take on full ownership of a key area and bring it to life. We’re an international team with members from Germany, USA, Sweden, Spain, Italy, China, Greece, France, Poland, Iran, Tunisia, Colombia, and South Sudan.</p><p><strong>FAQ:</strong></p><ul><li>Contract: Full-time</li><li>Earliest starting date: As soon as possible</li><li>Location: Berlin city center</li><li>Salary: based on experience</li><li>Equity: Yes</li><li>Remote work possible: Yes</li></ul><p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://www.youtube.com/watch?v=K1ofokuYniI"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"engineering",
+      "label":"Engenharia"
+   },
+   "department":{
+      "id":18571,
+      "label":"Engineering"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

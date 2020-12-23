@@ -1,0 +1,97 @@
+{
+   "id":"743999719693782",
+   "name":"Product Manager",
+   "uuid":"6915553e-be8b-4671-9c89-108646cbf355",
+   "refNumber":"REF838B",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Toronto",
+      "region":"ON",
+      "country":"ca",
+      "address":"2 Bloor Street West",
+      "postalCode":"M4W 3E2",
+      "remote":true
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18588",
+         "valueLabel":"Product"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"ca",
+         "valueLabel":"Canadá"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+         "valueLabel":"P2"
+      }
+   ],
+   "releasedDate":"2020-09-16T02:09:17.000Z",
+   "creator":{
+      "name":"Maggie Hennessey",
+      "avatarUrl":"https://c.smartrecruiters.com/sr-employee-image-prod/5bfc94ce52faff0006bac1f5?r=s3&_1607451821976"
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999719693782-product-manager",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999719693782-product-manager?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/6915553e-be8b-4671-9c89-108646cbf355?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! </p><p>Our platform is used by hiring teams of Twitter, Visa, Ubisoft, or McDonald’s. We also helped over 50 million candidates through their job search journey.</p><p>We understand that working hard means you should play hard too, that’s why we offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. </p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>We are now looking for an outstanding Product Manager to help us build and grow our amazing product! In this role, you will own the product roadmap from conception to implementation and beyond. We believe in continuous improvement of features we have shipped, as well as rigorous measurement of their impact on our users.</p><p>Your ability to research, be creative, display grit, lead, and listen will determine the future of the product. This is an interdisciplinary role, and you will work with Design, Engineering, Data Science, and Product Marketing to deliver a world-class product. You will launch new products that support our mission of connecting people to jobs at scale.</p><p>You’ll join a supportive, diverse group of talented Product Managers, Designers and Engineers in Berlin, San Francisco and Krakow. We are looking for someone who will love recruiting technology innovation as much as we do!<br /> </p>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Ability to make things happen</li><li>Ability to turn complexity and uncertainty into awesomeness</li><li>Self-starter with with an appetite and ability to own a large part of the product</li><li>Experience designing products that optimize web and mobile visit conversion</li><li>Product management experience at a SaaS or B2C start-up</li><li>Experience working with job boards (both mainstream &amp; niche)</li><li>Good grasp of UX</li><li>Excellent communication skills</li><li>Attention to detail</li><li>Fluent in English</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>We are a fast growing, series D funded start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"information_technology",
+      "label":"Tecnologias da informação"
+   },
+   "department":{
+      "id":18588,
+      "label":"Product"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

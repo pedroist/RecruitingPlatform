@@ -1,0 +1,102 @@
+{
+   "id":"743999723033895",
+   "name":"Account Based Marketing Manager",
+   "uuid":"2487743d-bcd1-476e-883b-be4796865b69",
+   "refNumber":"REF872U",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Berlin",
+      "region":"Berlin",
+      "country":"de",
+      "address":"Wilhelmstraße",
+      "remote":true
+   },
+   "industry":{
+      "id":"internet",
+      "label":"Internet"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18554",
+         "valueLabel":"Marketing"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"de",
+         "valueLabel":"Alemanha"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+         "valueLabel":"P2"
+      }
+   ],
+   "releasedDate":"2020-10-28T13:00:25.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999723033895-account-based-marketing-manager",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999723033895-account-based-marketing-manager?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/2487743d-bcd1-476e-883b-be4796865b69?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>SmartRecruiters understands that people are the heart of an organization. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best! As the hiring success company, we enjoy a collaborative office environment that’s business casual and dog-friendly. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>The Account-Based Marketing Manager at SmartRecruiters works directly with our top account executives and other cross-functional leaders in our Tier 1 markets in Europe (France, United Kingdom, and DACH) to build and execute account-specific marketing programs intended to increase awareness and engagement with our target accounts.</p><p>The perfect hire is a data-driven and revenue-focused marketer who will:</p><ul><li>Design and execute 1:1 and 1:few ABM programs that align to sales goals and influence decision makers across the buyer’s journey. They will oversee account selection, account research and planning, as well as orchestration across multiple marketing channels (like email, website, personalized advertising, intent data and virtual events). </li><li>Define buyer personas within accounts, crafting messages that align to persona challenges and expected business outcomes.</li><li>Coach and align stakeholders across Marketing, Sales Development and Sales to execute on integrated account activation plans.</li><li>Partner with content teams to provide campaign customization and tailored thought leadership.</li><li>Monitor key performance indicators for ABM programs across multiple tactics and ensure continuous improvement and effectiveness of prospecting and marketing tactics.</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Proven track record of managing integrated B2B marketing campaigns using tactics that include webinars, digital advertising, and social media</li><li>Familiarity with the technology sales cycle and how to employ marketing communication strategies to nurture and engage</li><li>Excellent project management skills</li><li>A strong team player who thrives in a collaborative environment, with the ability to build relationships with key stakeholders within the marketing and sales teams</li></ul><p>Preferred:</p><ul><li>Experience in a high-tech B2B demand generation or sales supporting marketing role</li><li>Experience in the HR or recruiting technology space</li></ul><p><strong>Reporting lines</strong>: The Account-BAsed Marketing Manager, reports into our global Demand Generation leader and is deeply aligned with our local EMEA Marketing &amp; Sales leadership.</p>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p><p> </p><p> </p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://youtu.be/yRS7Ec05WjA"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"marketing",
+      "label":"Marketing"
+   },
+   "department":{
+      "id":18554,
+      "label":"Marketing"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

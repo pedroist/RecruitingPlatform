@@ -1,0 +1,97 @@
+{
+   "id":"743999723035396",
+   "name":"Enterprise Solutions Consultant (DACH)",
+   "uuid":"45502177-d16f-4463-a88e-ff961e8cb4b6",
+   "refNumber":"REF776M",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Düsseldorf",
+      "region":"NRW",
+      "country":"de",
+      "address":"Neuer Zollhof 3",
+      "postalCode":"40221",
+      "remote":true
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"54016",
+         "valueLabel":"Sales"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"de",
+         "valueLabel":"Alemanha"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+         "valueLabel":"P1"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:53.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219265-enterprise-solutions-consultant-dach-",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219265-enterprise-solutions-consultant-dach-?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/45502177-d16f-4463-a88e-ff961e8cb4b6?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>SmartRecruiters understands that people are the heart of an organization. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best! As the hiring success company, we enjoy a collaborative office environment that’s business casual and dog-friendly. We understand that working hard means you should play hard too, that’s why we offer unlimited PTO, competitive salaries, generous equity, and health coverage. Enjoy catered meals, unlimited snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>This opportunity will target strategic enterprise customers globally. Many of the customers are looking to transform their recruiting and HR operations processes, and we can show them the added value SmartRecruiters will give them. If you love working with technology, prospects, and clients, then we want to talk to you.</p><p><strong>You will:</strong></p><ul><li>Possess exceptional knowledge of enterprise CRM or ATS systems and the SAAS ecosystem, display outstanding presentation skills, and have strong team values. </li><li>Be pulled into demos, discussions and various use-case scenarios, assisting reps on various types of technical and implementation conversations. </li><li>Understand the product in every aspect, and are capable of communicating the business value of those details to potential prospects and existing clients.</li></ul><p><strong>Responsibilities:</strong></p><ul><li>Partner with account executives by leading the technical sale process for customers including discovery, demonstrations, pilot management, training, due diligence, and security discussions</li><li>Join technically-oriented calls and conversations with prospects and clients</li><li>Collect, spec, and manage product and engineering requests from Sales Team.  </li><li>Assist with and advise on integration implementations.</li><li>Spearhead RFP and Security Questionnaire completion</li><li>Prioritize opportunities while applying appropriate resources</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<p>Before you get here, this is who you are and what you’ve done:</p><ul><li>4-year degree required (technical degree a plus)</li><li>Fluency in both the German and English languages</li><li>2+ years of sales engineering experience, ideally with a SaaS Enterprise solution</li><li>Consistent over-achievement in past experiences</li><li>Obvious passion and people skills</li><li>Technically adept, experienced with web technologies</li><li>Preference for candidates located near our Düsseldorf location, but remote candidates will also be considered.</li></ul><p>You like to get your hands dirty and produce quality work with minimal supervision. Ideally, you’ve got a track record of success in this space.  This is an opportunity for you to take on full ownership of a key area and bring it to life. Your work will have a direct impact on building awareness and our customer base in EMEA.</p>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"sales",
+      "label":"Vendas"
+   },
+   "department":{
+      "id":54016,
+      "label":"Sales"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}
