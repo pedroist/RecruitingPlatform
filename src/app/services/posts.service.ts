@@ -34,10 +34,15 @@ export class PostsService {
   }
 
   getPostById(id: string): Observable<any> {
+    /* OPTION1 - FROM JSON LOCAL FILE: */
+    return this.getLocalJSON(id);
+
+    /* // OPTION2 - FROM HTTP SERVICE:
     let data = this.http
       .get(`${this.url}/${id}`)
       .pipe(catchError(this.handleError));
     return data;
+    */
   }
   /*---END OF HTTP REQUESTS-------------------------------------*/
   getPostsInitialization() {
@@ -138,7 +143,7 @@ export class PostsService {
     return throwError(errorMessage);
   }
 
-  getLocalJSON(): Observable<any> {
-    return this.http.get("assets/data.json");
+  getLocalJSON(id?: string): Observable<any> {
+    return id ? this.http.get(`assets/${id}.json`) : this.http.get("assets/data.json");
   }
 }
