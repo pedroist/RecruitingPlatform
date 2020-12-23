@@ -1,0 +1,97 @@
+{
+   "id":"743999729219182",
+   "name":"Python ETL Engineer",
+   "uuid":"d5107f24-6616-41c2-9e11-ab0113ea0cf4",
+   "refNumber":"REF825P",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Kraków",
+      "region":"małopolskie",
+      "country":"pl",
+      "address":"Fabryczna 20A",
+      "postalCode":"31-553",
+      "remote":false
+   },
+   "industry":{
+      "id":"internet",
+      "label":"Internet"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18605",
+         "valueLabel":"Client Success"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"pl",
+         "valueLabel":"Polônia"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+         "valueLabel":"P1"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:48.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219182-python-etl-engineer",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219182-python-etl-engineer?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/d5107f24-6616-41c2-9e11-ab0113ea0cf4?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! </p><p><br />Our platform is used by hiring teams of Twitter, Visa, Ubisoft, or McDonald’s. We also helped over 50 million candidates through their job search journey.</p><p><br />We understand that working hard means you should play hard too, that’s why we offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. This is a casual and pet-friendly place. Enjoy catered meals, unlimited snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>We&apos;re looking for a technical engineer to support our customers&apos; needs in an area of data migrations, integrations, custom reports, and automating manual processes for our teams. Our team stays ahead of challenging tasks of automating our current processes and helping our implementation team to automate theirs. </p><p>If you are looking for the place where you can have a real impact on the shape of business solutions, you are curious and like learning new, modern approaches and constantly optimizing processes, you have just found the right place, apply now! </p><p>The main goal of our Team is to make our customers happy and successful. We process data for them and provide data directly from public / internal APIs or databases to them or other teams.</p><p><strong>What you will do:</strong></p><ul><li>Perform data imports from various sources using Talend ETL tool and Public / Private APIs</li><li>Perform data extracts and data dumps</li><li>Build ability to create demo environments</li><li>Build data import applications</li><li>Build integrations between different, external web applications</li><li>Improve and optimize data services processes</li><li>Work closely with the Professional Services team based in San Francisco to address customers&apos; requests</li><li>Building data pipelines</li><li>Become an expert in your area of interest and evangelize your colleagues</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>At least 2 years of experience in professional programming (Python, airflow)</li><li>Experience in building integrations between different web applications</li><li>Knowledge of different aspects of building RESTful web services</li><li>Experience with databases (SQL, NoSQL), Git/Github, http(s) protocol, web applications security</li><li>Team player</li><li>Fast learner and a technology geek</li><li>Experience with ETL tools (Talend preferred) - nice to have</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p><br />We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p><br />SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"information_technology",
+      "label":"Tecnologias da informação"
+   },
+   "department":{
+      "id":18605,
+      "label":"Client Success"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

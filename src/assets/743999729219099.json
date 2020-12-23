@@ -1,0 +1,103 @@
+{
+   "id":"743999729219099",
+   "name":"Senior Product Marketing Manager",
+   "uuid":"646a968a-27cb-438f-910d-bf5023fafb36",
+   "refNumber":"REF870T",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"San Francisco",
+      "region":"CA",
+      "country":"us",
+      "address":"225 Bush Street",
+      "postalCode":"94104",
+      "remote":true
+   },
+   "industry":{
+      "id":"internet",
+      "label":"Internet"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18554",
+         "valueLabel":"Marketing"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"us",
+         "valueLabel":"Estados Unidos"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+         "valueLabel":"P2"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:43.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219099-senior-product-marketing-manager",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219099-senior-product-marketing-manager?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/646a968a-27cb-438f-910d-bf5023fafb36?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>SmartRecruiters is a fast-growing recruiting SaaS provider on a mission to connect people to jobs at scale.</p><p>Rated by industry analysts as the worldwide leader of modern talent acquisition suites, 4,000+ customers around the world use SmartRecruiters products to achieve Hiring Success. Our belief is that people are the heart of an organization -- hiring success = business success. We offer a collaborative, diverse, and remote-friendly work environment, as well as competitive salaries and generous equity. We make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>We are seeking a Technical Product Marketing Manager to drive a platform GTM and content strategy that will help our prospects, customers, and partners understand what is possible with SmartRecruiters’ global &amp; flexible system. Partnering closely with our Platform and Product teams, you thrive as an action-oriented marketer who can distill technical details into unique takeaways, defining and building compelling content that helps us grow our products and marketplace presence, while showcasing SmartRecruiters’ leadership position in the industry in the areas of AI, integrations, security &amp; compliance, and global scalability.</p><p>You must be comfortable as an individual contributor, as well as lead other marketing and technical stakeholders to promote and integrate the value of our platform across the entire SmartRecruiters talent acquisition suite.</p><p><u>Key Responsibilities</u></p><ul><li>Become the go-to expert on a unique target persona to create opportunity for demand and accelerate sales velocity</li><li>Turn technical details around the SmartRecruiters platform into concise positioning &amp; messaging</li><li>Define and execute technical marketing deliverables, including but not limited to sales collateral, whitepapers, videos, demos, sales enablement trainings, and presentations </li><li>Support product releases as the subject matter expert on certain products, integrations, and configuration/compliance improvements</li><li>Embed the value of technical marketing such that sales, marketing, product, and partner teams are properly informed about and applying all technical and thought leadership content</li><li>Present technical marketing content to internal and external audiences, including SmartRecruiters revenue organization, customers, partners, and industry analysts</li><li>Engage online communities and social media, leveraging your technical marketing and thought leadership content</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>6+ years of experience in product marketing, sales engineering, product management or management consulting</li><li>Very strong written and oral communication skills, excellent storyteller and narrative creator</li><li>Proven technical and marketing skills, including the ability to customize solutions and effectively write/communicate company value propositions and key differentiators</li><li>Demonstrated ability to learn new, complex technologies quickly</li><li>Exceptional people skills to interact with executives, colleagues, cross-functional teams, partners, and customers</li><li>Experience marketing to HR and IT decision makers, including CIO/CTO</li><li>Experience in the HR Technology industry is a plus</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>Why Us?</p><p>You will join a highly cross-functional and impactful product marketing team at SmartRecruiters. This is an opportunity for you to take ownership of core product marketing competencies and bring them to life for the entire organization and customers.</p><p>FAQ</p><ul><li>Status: Full-time employee</li><li>Start date: As soon as possible</li><li>Location: Remote (ideally in the Pacific time zone for easy collaboration with the team</li><li>Relocation package: No</li><li>Salary: based on experience</li><li>Equity: Yes</li></ul><p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Bosch, Visa, Marc Jacobs, and Square have abandoned their previous Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product has now turned into the world’s fastest growing enterprise solution.</p><p>We are a fast-growing, Series D funded startup on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics</p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://www.youtube.com/watch?v=eGb73Obar_c"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"marketing",
+      "label":"Marketing"
+   },
+   "department":{
+      "id":18554,
+      "label":"Marketing"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

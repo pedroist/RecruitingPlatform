@@ -1,0 +1,97 @@
+{
+   "id":"743999729219130",
+   "name":"Sales Development Representative (Contract)",
+   "uuid":"c9913e1b-f422-4b00-90d9-6472b994c532",
+   "refNumber":"REF860G",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Sydney",
+      "region":"NSW",
+      "country":"au",
+      "address":"Pitt Street 123",
+      "postalCode":"2000",
+      "remote":true
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"54016",
+         "valueLabel":"Sales"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"au",
+         "valueLabel":"Austrália"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:45.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219130-sales-development-representative-contract-",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219130-sales-development-representative-contract-?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/c9913e1b-f422-4b00-90d9-6472b994c532?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>SmartRecruiters understands that people are the heart of an organization. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best! We understand that working hard means you should play hard too, that’s why we offer unlimited PTO, competitive salaries, and more. </p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>Are you looking to join a fun and collaborative sales team Are you motivated by uncapped commission with generous accelerators?</p><p>As a Sales Development Representative (SDR) at SmartRecruiters, you have the unique opportunity to build a foundation for an exciting and rewarding career in tech.</p><p>As a key member of our sales team you will...</p><ul><li>Participate in our sales training to learn the history of the industry, our target buyer, best practices for qualifying prospective clients, and more</li><li>Discover, qualify, and nurture new business leads through cold calling, email, social media and marketing campaigns</li><li>Use your creativity and detective skills to connect with decision makers to schedule meetings for Account Executives</li><li>Collaborate with the entire organization to accelerate the sales cycle and extend our reach into HR departments</li><li>Professionally represent the SmartRecruiters brand, vision, and values</li><li>Surround yourself around ambitious individuals who create a fun and exciting work environment</li><li>Receive continued coaching and support as you work towards promotion and professional growth</li></ul><p><strong>This is a remote contractor position.</strong></p>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Ability to build strong client relationships, think on your feet, and overcome objections/rejections</li><li>Comfortable spending most of your workday sending out emails and making cold calls to Managers, Directors, VPs and C-level Executives</li><li>Strong interpersonal, written, and spoken communication skills</li><li>Self-disciplined with the ability to prioritize, manage time effectively, and know when to ask for help</li><li>Coachable with a genuine curiosity to learn and grow</li><li>Self-Starter, with the ability to thrive in a remote environment with autonomy</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>We are a fast growing, series D funded start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://www.youtube.com/watch?v=eGb73Obar_c&t=1s"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"sales",
+      "label":"Vendas"
+   },
+   "department":{
+      "id":54016,
+      "label":"Sales"
+   },
+   "experienceLevel":{
+      "id":"entry_level",
+      "label":"Sem experiência"
+   },
+   "typeOfEmployment":{
+      "id":"contract",
+      "label":"Contrato"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

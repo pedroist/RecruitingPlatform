@@ -1,0 +1,97 @@
+{
+   "id":"743999729218687",
+   "name":"Client Sales Executive",
+   "uuid":"e06cdd7b-b38c-400e-aa8c-49dc531a0ecc",
+   "refNumber":"REF877D",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Paris",
+      "region":"IDF",
+      "country":"fr",
+      "address":"33 Rue la Fayette",
+      "postalCode":"75009",
+      "remote":true
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"54016",
+         "valueLabel":"Sales"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"fr",
+         "valueLabel":"França"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:17.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218687-client-sales-executive",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218687-client-sales-executive?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/e06cdd7b-b38c-400e-aa8c-49dc531a0ecc?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>SmartRecruiters is a fast-growing San Francisco software startup with offices all around the world. SmartRecruiters is a tool that recruiters use to find and hire great talent- some of the world&apos;s largest and most famous brands use SmartRecruiters!</p><p>We are bright, passionate individuals on a mission to change the way companies hire. We live and breath our value of AS ONE through our collaborative and supportive culture. Everyone is encouraged to be the CEO of their job. SmartRecruiters believes in promotion from within, so high performance can lead to upward mobility. </p><p>Our inclusive office environment welcomes and respects all.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>The SmartRecruiters Client Sales Executive is responsible for the commercial growth of our client base. You will use your extensive experience, domain expertise and consultative selling skills to build relationships with your clients and provide real, effective solutions that address their sales needs. Role &amp; Responsibilities:</p><ul><li>You are a passionate, enthusiastic and successful account manager</li><li>You are responsible for the client post-sale and will be focused on retention &amp; expansion (all financial conversations including renewal)</li><li>In partnership with our Customer Success Manager, you will identify sales opportunities and own driving the sales cycle through contract execution</li><li>You will use your experience and consultative selling skills to initiate &amp; maintain long-standing relationships with your clients &amp; executive sponsors </li><li>You will employ effective selling strategies to successfully position SmartRecruiters&apos; add-on products as the only option to achieve Hiring Success</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<p>We are only looking for THE BEST - Top 10% - Quota Crushers!</p><p>You are a person who is fired up to not only make top dollar but do so while being a key driver at a company that is on its way to change an industry.</p><p>Your Toolbox Includes:</p><ul><li>Highly successful sales &amp; account management experience in Enterprise HR/HCM Applications</li><li>Minimum of 5 years enterprise/cloud software sales experience, successfully selling high-level corporate software/technology solutions at the executive level</li><li>Must be comfortable demonstrating software and speaking to all levels</li><li>Ability to successfully work from a home office environment and travel at least 30%</li><li>Last, but by no means least - an outstanding work ethic, high integrity, team player attitude</li></ul><p><strong>We are looking for roles in various cities across the United States so the location is flexible.</strong></p>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://www.youtube.com/watch?v=eGb73Obar_c"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"sales",
+      "label":"Vendas"
+   },
+   "department":{
+      "id":54016,
+      "label":"Sales"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

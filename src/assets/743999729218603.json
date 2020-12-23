@@ -1,0 +1,103 @@
+{
+   "id":"743999729218603",
+   "name":"Sales Development Representative",
+   "uuid":"2670253d-2e6c-4451-bf92-2516a4416677",
+   "refNumber":"REF888K",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Paris",
+      "region":"IDF",
+      "country":"fr",
+      "address":"33 Rue la Fayette",
+      "postalCode":"75009",
+      "remote":false
+   },
+   "industry":{
+      "id":"internet",
+      "label":"Internet"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18554",
+         "valueLabel":"Marketing"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"fr",
+         "valueLabel":"França"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+         "valueLabel":"P1"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:11.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218603-sales-development-representative",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218603-sales-development-representative?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/2670253d-2e6c-4451-bf92-2516a4416677?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>SmartRecruiters understands that people are the heart of an organization. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best! As the hiring success company, we enjoy a collaborative office environment that’s business casual and dog-friendly. We understand that working hard means you should play hard too, that’s why we offer unlimited PTO, competitive salaries, generous equity, and health coverage. Enjoy catered meals, unlimited snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>Fun team, amazing office, and uncapped commission with generous accelerators are just the beginning. As a Sales Development Representative (SDR) at SmartRecruiters, you have the unique opportunity to build a foundation for an exciting and rewarding career in tech sales.</p><p>As a key member of our sales team, you will...</p><ul><li>Participate in an amazing sales training program, where you will learn the history of the industry, our target buyer, best practices for qualifying prospective clients, and more</li><li>Receive continued coaching and support as you work towards promotion and professional growth</li><li>Qualify and nurture sales leads, including some of the world’s largest and most successful companies</li><li>Use your creativity and detective skills to connect with decision makers to schedule meetings for Account Executives</li><li>Professionally represent the SmartRecruiters brand, vision, and values</li><li>Surround yourself with ambitious professionals who create a fun and exciting work environment</li></ul><p> </p>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Ability to think on your feet and overcome objections/rejections</li><li>Comfortable spending most of your workday sending out emails and making cold calls to Managers, Directors, VPs and C-level Executives</li><li>Strong interpersonal, written, and spoken communication skills</li><li>Self-disciplined with the ability to prioritize, manage time effectively, and know when to ask for help</li><li>Coachable with a genuine curiosity to learn and grow</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://youtu.be/yRS7Ec05WjA"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"sales",
+      "label":"Vendas"
+   },
+   "department":{
+      "id":18554,
+      "label":"Marketing"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

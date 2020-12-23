@@ -1,0 +1,97 @@
+{
+   "id":"743999729231975",
+   "name":"Regular / Senior Security Engineer",
+   "uuid":"e1603e2d-5d0a-4254-9d70-5aec97339903",
+   "refNumber":"REF893B",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Kraków",
+      "region":"małopolskie",
+      "country":"pl",
+      "address":"Fabryczna 20A",
+      "postalCode":"31-553",
+      "remote":false
+   },
+   "industry":{
+      "id":"internet",
+      "label":"Internet"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18571",
+         "valueLabel":"Engineering"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"pl",
+         "valueLabel":"Polônia"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+         "valueLabel":"P1"
+      }
+   ],
+   "releasedDate":"2020-12-23T15:22:39.000Z",
+   "creator":{
+      "name":"Igor Czechowski",
+      "avatarUrl":"https://c.smartrecruiters.com/sr-employee-image-prod/55b25ee3e4b05c3d77dfcad7?r=s3&_1469531682753"
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729231975-regular-senior-security-engineer",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729231975-regular-senior-security-engineer?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/e1603e2d-5d0a-4254-9d70-5aec97339903?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>SmartRecruiters understands that people are the heart of an organization. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best! As the hiring success company, we enjoy a collaborative office environment that’s business casual and dog-friendly. We understand that working hard means you should play hard too, that’s why we offer unlimited PTO, competitive salaries, generous equity, and health coverage. Enjoy catered meals, unlimited snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>Have you ever dream to drive security standards and implementation at a fast paced growing startup in the early stages of expansion ? If you think that these kinds of challenges are exciting then you are most welcome to join our team in Kraków.</p><p>You will:</p><ul><li><p>Lead design and implementation of security standards &amp; necessary controls to protect SmartRecruiters</p></li><li><p>Recommend, trial &amp; implement security monitoring tools at all levels of infrastructure</p></li><li><p>Manage and resolve security incidents and improvements</p></li><li><p>Audit various aspects of organization&apos;s security</p></li><li><p>Harden OS and networking configuration</p></li><li><p>Work closely with DevOps team to manage and automate IT infrastructure</p></li></ul><p><strong>This offer is for you, if:</strong></p><ul><li><p>You like working in a fast-paced, agile environment</p></li><li><p>You want to experience the atmosphere of a startup </p></li><li><p>You are a fan of security, web, technology, and new tech trends</p></li><li><p>You are the type of a person who wants not only to have your ideas heard but see them put into action</p></li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li><p>Good command of Linux</p></li><li><p>Scripting and basic programming in Terraform / Ansible &amp; Chef</p></li><li><p>Experience with scripting in Python</p></li><li><p>Knowledge of or at least a strong interest in information security concepts and technologies such as IDS, internet gateways, SIEM, HIDS, NIDS, web application firewalls, and vulnerability management tools.</p></li><li><p>General understanding of AWS / cloud automation</p></li><li><p>Exposure to a Devops with a background in Server Operations or Systems Administration</p></li><li><p>An autonomous / self-managed work style</p></li><li><p>Experience in developing business and operational processes </p></li><li><p>Strong communication skills, with a good understanding of English, both verbal and written </p></li><li><p>Team player with the ability to operate in a fast-paced, ever-changing work environment</p></li><li><p>Knowledge of Elastic  stack is a plus</p></li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"engineering",
+      "label":"Engenharia"
+   },
+   "department":{
+      "id":18571,
+      "label":"Engineering"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

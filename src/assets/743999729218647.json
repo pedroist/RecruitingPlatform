@@ -1,0 +1,103 @@
+{
+   "id":"743999729218647",
+   "name":"Manager, North America Sales Development",
+   "uuid":"d35bbbbc-75e5-434a-b048-f9a9c8e073e4",
+   "refNumber":"REF884K",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"San Francisco",
+      "region":"CA",
+      "country":"us",
+      "address":"225 Bush Street",
+      "postalCode":"94104",
+      "remote":true
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"54016",
+         "valueLabel":"Sales"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"us",
+         "valueLabel":"Estados Unidos"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+         "valueLabel":"P2"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:15.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218647-manager-north-america-sales-development",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218647-manager-north-america-sales-development?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/d35bbbbc-75e5-434a-b048-f9a9c8e073e4?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>SmartRecruiters is a fast-growing San Francisco software startup with offices all around the world. SmartRecruiters is a tool that recruiters use to find and hire great talent- some of the world&apos;s largest and most famous brands use SmartRecruiters!</p><p>We are bright, passionate individuals on a mission to change the way companies hire. We live and breath our value of AS ONE through our collaborative and supportive culture. Everyone is encouraged to be the CEO of their job. SmartRecruiters believes in promotion from within, so high performance can lead to upward mobility. </p><p>Our inclusive office environment welcomes and respects all.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>We’re looking for a Manager of our North America Sales Development team. This position reports directly to the Global Director of Sales Development. In this role, you will be responsible for building and scaling up our NAMER SDR function - hire, develop, train, mentor, coach, and motivate. </p><p>Your Impact</p><ul><li>Manage a growing team of Sales Development Representatives </li><li>Coordinate and manage weekly and monthly one-on-one and team-wide pipeline reviews, meetings, and training sessions to ensure ongoing improvement and best practice sharing </li><li>Manage daily and weekly activities, pipelines and forecasts to ensure above-quota results </li><li>Responsible for hiring, on-boarding and developing new SDR team members</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Has had prior team leadership experience (2+ years) leading highly functional SDR teams in the past • Prior SDR management experience is not a requirement, but would be preferred </li><li>Proven success in driving pipeline generation through inbound and outbound prospecting strategies</li><li>Demonstrated ability to develop and train sales talent </li><li>Ready to roll up their sleeves and be scrappy - we hire people who are ready to hustle, work with everyone, and get the job done</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://www.youtube.com/watch?v=eGb73Obar_c"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"sales",
+      "label":"Vendas"
+   },
+   "department":{
+      "id":54016,
+      "label":"Sales"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

@@ -1,0 +1,97 @@
+{
+   "id":"743999729218635",
+   "name":"Lifecycle Marketing Manager",
+   "uuid":"a8b59e39-9565-4f75-9f43-8fef282c2fc8",
+   "refNumber":"REF886C",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"San Francisco",
+      "region":"CA",
+      "country":"us",
+      "address":"225 Bush Street",
+      "postalCode":"94104",
+      "remote":true
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18554",
+         "valueLabel":"Marketing"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"us",
+         "valueLabel":"Estados Unidos"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:13.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218635-lifecycle-marketing-manager",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218635-lifecycle-marketing-manager?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/a8b59e39-9565-4f75-9f43-8fef282c2fc8?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>SmartRecruiters is a fast-growing recruiting SaaS provider on a mission to connect people to jobs at scale. We are bright, passionate individuals on a mission to change the way companies hire.</p><p>Rated by industry analysts as the worldwide leader of modern talent acquisition suites, 4,000+ customers around the world use SmartRecruiters’ products to achieve Hiring Success. Our belief is that people are the heart of an organization -- hiring success = business success.</p><p>SmartRecruiters offers a collaborative, diverse, and remote-friendly work environment, as well as competitive salaries and generous equity. We believe in promotion from within, so high performance can lead to upward mobility. Needless to say, we make sure you’re taken care of.</p><p>Our inclusive office environment welcomes and respects all.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>As a member of our world-class marketing team, you’ll be driving user adoption of our product and content through creative, persona-targeted lifecycle campaigns. You have the opportunity to design and deliver end-to-end messaging tracks centered around B2B customer journey milestones, spanning contract signature through account renewal and expansion.</p><p>The right hire for this role is a data-driven marketer with creative thinking who will:</p><ul><li>Become an expert in the SmartRecruiters customer journey and create detailed flows including 1:many and programmatic communications to drive activation and adoption of key features, leading to improvement in product adoption KPIs and NPS</li><li>Define and implement measurable KPIs for lifecycle programs in partnership with Product and RevOps teams, iterating and optimizing on an ongoing basis </li><li>Partner closely with product marketing, product management, customer success, and operations teams to ensure proper messaging, timing, and execution of one-off and ongoing campaigns via email and in-product</li><li>Oversee the customer communications calendar, including designing and deploying email campaigns, positioning &amp; messaging, developing in-product notifications, segmenting audience lists, and reporting</li><li>Build segmentation strategies to customize messaging to users based on key personas, behavioral data, and email engagement data</li><li>Execute and analyze A/B test plans to improve engagement performance and conversion rates </li><li>Collaborate with product marketing to develop new assets for each stage of the customer journey</li><li>Establish and support cross-functional programs and processes that reinforce a cohesive customer journey</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>6+ years experience in SaaS marketing with a preference for lifecycle management</li><li>Relevant experience using marketing automation technology (ideally Marketo) and Salesforce</li><li>Adept at mapping product usage behavior and feature conversion to account health metrics</li><li>Hands-on attitude and excellent project management skills</li><li>Self-starter with strong communication skills</li><li>Track record of effective stakeholder management and cross-functional collaboration</li><li>Experience with product analytics tools a bonus</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Bosch, and H&amp;M have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://www.youtube.com/watch?v=eGb73Obar_c&t=23s"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"marketing",
+      "label":"Marketing"
+   },
+   "department":{
+      "id":18554,
+      "label":"Marketing"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

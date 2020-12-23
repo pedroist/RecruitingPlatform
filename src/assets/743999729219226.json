@@ -1,0 +1,97 @@
+{
+   "id":"743999729219226",
+   "name":"Frontend Software Engineer (Regular/Senior/Lead)",
+   "uuid":"9aea7e86-8dc6-48e9-8579-6b537cbc3279",
+   "refNumber":"REF784G",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Kraków",
+      "region":"małopolskie",
+      "country":"pl",
+      "address":"Fabryczna 20A",
+      "postalCode":"31-553",
+      "remote":false
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18571",
+         "valueLabel":"Engineering"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"pl",
+         "valueLabel":"Polônia"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+         "valueLabel":"P2"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:51.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219226-frontend-software-engineer-regular-senior-lead-",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219226-frontend-software-engineer-regular-senior-lead-?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/9aea7e86-8dc6-48e9-8579-6b537cbc3279?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! <br />Our platform is used by hiring teams of Twitter, Visa, Ubisoft, or McDonald’s. We also helped over 50 million candidates through their job search journey.<br />We understand that working hard means you should play hard too, that’s why we offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. This is a casual and pet-friendly place. Enjoy catered meals, unlimited snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>We are looking for a talented frontend engineer to join our amazing team! </p><p><strong>What you will do:</strong></p><ul><li>Develop with Angular/Jade/Sass/Node.js/TypeScript/</li><li>Participate in a full life-cycle of the product (including problem discovery, design, implementation and measuring adoption)</li><li>Cooperate with our San Francisco and Berlin-based teams.</li><li>Write semantic, modular, efficient code for creating lightweight apps.</li><li>Be responsible for shipping responsive, accessible and clean user experience of our features</li><li>Develop and enhance our design system - Blue Steel</li><li>Work with passionate people and solve one of the most important problems of a modern economy - hiring great people</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>At least 3+ years of professional experience developing front-end apps using: JavaScript, Angular or similar javascript frameworks.</li><li>Experience in building optimized, consumer web applications.</li><li>Experience in designing and consuming RESTful APIs.</li><li>Familiarity with Node.js ecosystem</li><li>Very good level of English (both verbal and written).</li><li>Familiarity with usability best practices</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.<br />We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.<br />SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"engineering",
+      "label":"Engenharia"
+   },
+   "department":{
+      "id":18571,
+      "label":"Engineering"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

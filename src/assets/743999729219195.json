@@ -1,0 +1,97 @@
+{
+   "id":"743999729219195",
+   "name":"Backend Software Engineer - Candidate Experience Team",
+   "uuid":"b07beca5-e844-4ed1-aaf2-16bebddb6391",
+   "refNumber":"REF824E",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Berlin",
+      "region":"Berlin",
+      "country":"de",
+      "address":"Wilhelmstraße 118",
+      "postalCode":"10963",
+      "remote":false
+   },
+   "industry":{
+      "id":"internet",
+      "label":"Internet"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18571",
+         "valueLabel":"Engineering"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"de",
+         "valueLabel":"Alemanha"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+         "valueLabel":"P1"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:49.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219195-backend-software-engineer-candidate-experience-team",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219195-backend-software-engineer-candidate-experience-team?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/b07beca5-e844-4ed1-aaf2-16bebddb6391?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! </p><p>In 10 years, we expanded our customer base to 4000 companies. Our platform is used by hiring teams of Twitter, Visa, Ubisoft, CD Project RED, or McDonald’s. We also helped over 50 million candidates through their job search journey.</p><p>We offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. This is a casual and pet-friendly place. We pride ourselves on being a product first organization, and we have a spot open on our candidate experience team!</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>We are looking for a talented backend engineer to join our amazing Candidate Experience Team! Candidate Experience Team is responsible for creating products used by 2 million job seekers each month. Our goal is to make the application experience as friendly as possible and we believe technology is a critical part of achieving this.</p><p><strong>What you will do:</strong></p><ul><li>Participate in a full life-cycle of the product (including problem discovery, prototyping, design, implementation and measuring adoption)</li><li>Design and develop services with Java / Node.js (Express, Nest.js) on top of Kubernetes/AWS infrastructure</li><li>Design and connect to our persistence layer (PostgreSQL, ElasticSearch)</li><li>Build developer-friendly RESTful APIs</li><li>Cooperate with San Francisco and Krakow-based teams.</li><li>Bring your own product ideas to life</li><li>Work with passionate people and solve one of the most important problems of a modern economy - hiring great people</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Experience in developing backend services using Java or Node.js</li><li>Experience in designing and consuming RESTful APIs.</li><li>Experience in designing efficient persistence layer (PostgreSQL)</li><li>Good understanding of test automation techniques</li><li>Familiarity with Amazon AWS</li><li>Familiarity with Docker/Kubernetes</li><li>Very good level of English (both verbal and written).</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>We are an equal opportunity employer and we encourage diversity of thought, age, race, gender, education, and culture. Thanks to this approach, world class enterprises like Adidas, IKEA, VISA, and Square abandoned their Application Tracking Systems for our modern talent acquisition solution. What once started as a freemium product is now one of the world&apos;s fastest growing enterprise solutions.</p><p>We are a series D funded startup. Our entrepreneurial environment will make you feel supported, grow your career, and make it a joy to go to the office. We operate on four values: CEO of your job, As One, Smarter, and Impact. We expect you to own your role and have the confidence to bring creative ideas to the hands of millions.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"information_technology",
+      "label":"Tecnologias da informação"
+   },
+   "department":{
+      "id":18571,
+      "label":"Engineering"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

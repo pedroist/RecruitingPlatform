@@ -1,0 +1,97 @@
+{
+   "id":"743999729219143",
+   "name":"Technical Services Manager",
+   "uuid":"b13f4d68-229f-4ba2-bab4-4d1a1cecf994",
+   "refNumber":"REF857U",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Kraków",
+      "region":"małopolskie",
+      "country":"pl",
+      "address":"Fabryczna 20A",
+      "postalCode":"31-553",
+      "remote":false
+   },
+   "industry":{
+      "id":"internet",
+      "label":"Internet"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18605",
+         "valueLabel":"Client Success"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"pl",
+         "valueLabel":"Polônia"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+         "valueLabel":"P1"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:45.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219143-technical-services-manager",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219143-technical-services-manager?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/b13f4d68-229f-4ba2-bab4-4d1a1cecf994?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! </p><p>Our platform is used by hiring teams of Twitter, Visa, Ubisoft, or McDonald’s. We also helped over 50 million candidates through their job search journey.</p><p>We understand that working hard means you should play hard too, that’s why we offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. This is a casual and pet-friendly place. Enjoy catered meals, snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<ul><li>Lead, manage and develop our technical services team (integration development, data migration, and reporting)</li><li>Oversee the delivery of software build lifecycle (technical design, build, test, deploy) technical workstreams on customer engagements</li><li>Lead delivery automation efforts including connectors and custom self-service tools</li><li>Coordinate and support delivery of global integration hosting solution between SmartRecruiters and other global HR vendors</li><li>Liaise with Engineers as needed to ensure product customizations are implemented and tested as part of the whole solution provided to the client.</li><li>Ensure on-time, on-budget, high-quality delivery of technical engagements</li><li>Collaborate with Product and Engineering on integration strategy</li><li>Collaborate with team on pricing and packaging of technical services</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>5-10 years of technical consulting or similar experience</li><li>Experience leading, managing, mentoring, and coaching people</li><li>Deep, hands-on expertise with architecting and building integrations to cloud and on-premise applications</li><li>Ability to work independently and communicate complex technical issues in an easy to understand manner</li><li>Experience working in a fast-paced environment with the ability to manage multiple concurrent projects</li><li>Track record of demonstrating excellent customer satisfaction and problem-solving skills</li><li>Ability to conduct oneself with professionalism in all situations, including in high-pressure scenarios</li></ul><p>Strongly Preferred:</p><ul><li>Experience with enterprise middleware solutions or custom integration hosting solutions</li><li>Experience with ATS, HR technologies, CRM or ERP, as well as, SaaS / On-Demand applications</li><li>Experience in a startup launching a enterprise software product</li><li>Contribute to best practices, case studies and white papers</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p><br />We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p><br />SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"consulting",
+      "label":"Consultadoria"
+   },
+   "department":{
+      "id":18605,
+      "label":"Client Success"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

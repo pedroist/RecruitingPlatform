@@ -1,0 +1,97 @@
+{
+   "id":"743999729219272",
+   "name":"Senior Product Designer",
+   "uuid":"b4e45799-6365-469b-9e35-0c083e01eec8",
+   "refNumber":"REF760P",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Berlin",
+      "region":"Berlin",
+      "country":"de",
+      "address":"Winsstraße 62-63",
+      "postalCode":"10405",
+      "remote":false
+   },
+   "industry":{
+      "id":"internet",
+      "label":"Internet"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18588",
+         "valueLabel":"Product"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"de",
+         "valueLabel":"Alemanha"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+         "valueLabel":"P2"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:53.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219272-senior-product-designer",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219272-senior-product-designer?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/b4e45799-6365-469b-9e35-0c083e01eec8?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! </p><p><br />Our platform is used by hiring teams of Twitter, Visa, Ubisoft, or McDonald’s. We also helped over 50 million candidates through their job search journey.</p><p><br />We understand that working hard means you should play hard too, that’s why we offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. This is a casual and pet-friendly place. Enjoy catered meals, unlimited snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>We are looking for a talented Senior Product Designer who can run a full design process, create elegant interfaces, and mentor other designers. Our team is highly collaborative, driven by excellence, and pushes for innovation.</p><p>In 3 months:</p><ul><li><p>You will lead product design on projects from inception to delivery on the web and mobile</p></li><li><p>You will be building interactive UX prototypes  to test and validate designs, and iterating on your designs in response to peer and user feedback</p></li><li><p>You will partner with product and engineering teams to build strong, thoughtful designs</p></li><li><p>You will provide thoughtful critique and guidance to other designers</p></li></ul><p>In 6 months:</p><ul><li><p>You will contribute to the design system and lead other design initiatives (design sprints, service design workshops, accessibility projects) forward in the greater organization</p></li><li><p>You will have a solid understanding of the SmartRecruiters platform, providing heuristic evaluations of existing interfaces and contributing new ideas for innovation and improvement</p></li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<p> </p><ul><li><p>5+ years of Product Design experience</p></li><li><p>An online portfolio with focus on UI, UX and IA for web and mobile technologies</p></li><li><p>Proven ability to turn complex product design problems into intuitive solutions</p></li><li><p>Experience with user research and feedback analysis</p></li><li><p>An eye for detail, strong communication, and organizational skills</p></li><li><p>Product design experience at an enterprise SaaS or web applications business</p></li><li><p>Experience in a startup-like environments with iterative, value-driven product releases</p></li></ul><p> </p>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p><br />We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p><br />SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"design",
+      "label":"Design"
+   },
+   "department":{
+      "id":18588,
+      "label":"Product"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

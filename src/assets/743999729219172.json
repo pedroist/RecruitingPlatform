@@ -1,0 +1,97 @@
+{
+   "id":"743999729219172",
+   "name":"Product Manager / Manager Produit",
+   "uuid":"439738d0-743a-4eb1-b648-c38569ff552e",
+   "refNumber":"REF838B",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Montréal",
+      "region":"QC",
+      "country":"ca",
+      "address":"1700 Rue Richardson",
+      "postalCode":"H3K 1G5",
+      "remote":true
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18588",
+         "valueLabel":"Product"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"ca",
+         "valueLabel":"Canadá"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+         "valueLabel":"P2"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:47.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219172-product-manager-manager-produit",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219172-product-manager-manager-produit?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/439738d0-743a-4eb1-b648-c38569ff552e?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Description de l'entreprise",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! </p><p>Our platform is used by hiring teams of Twitter, Visa, Ubisoft, or McDonald’s. We also helped over 50 million candidates through their job search journey.</p><p>We understand that working hard means you should play hard too, that’s why we offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. <br /><br />A SmartRecruiters, notre mission est de connecter des humains à des emplois à grande échelle. C&apos;est pour ca que nous avons construit notre Plateforme d&apos;Acquisition de Talents moderne, pour aider les entreprises à trouver les meilleurs talents, et aider les candidats à trouver leur job idéal!<br /><br />Notre plateforme est utilisée pour des équipes de recrutements du monde entier, et notamment par Twitter, Visa, Ubisoft, ou encore McDonald&apos;s. Nous avons aidé plus de 50 millions de candidats à travers leur recherche d&apos;emploi.<br /><br />Nous avons des bureaux collaboratifs dans le monde entier (San Francisco, Berlin, Krakow, Paris, Londres, Spokane) et grandissons également avec des équipes à domicile dans de nombreuses localisations.</p>"
+         },
+         "jobDescription":{
+            "title":"Description du poste",
+            "text":"<p>We are now looking for an outstanding Product Manager to help us build and grow our amazing product! In this role, you will own the product roadmap from conception to implementation and beyond. We believe in continuous improvement of features we have shipped, as well as rigorous measurement of their impact on our users.</p><p>Your ability to research, be creative, display grit, lead, and listen will determine the future of the product. This is an interdisciplinary role, and you will work with Design, Engineering, Data Science, and Product Marketing to deliver a world-class product. You will launch new products that support our mission of connecting people to jobs at scale.</p><p>You’ll join a supportive, diverse group of talented Product Managers, Designers and Engineers in Berlin, San Francisco and Krakow. We are looking for someone who will love recruiting technology innovation as much as we do!<br /><br />Nous sommes maintenant à la recherche de notre futur(e) Product Manager pour nous aider à construire et faire évoluer nos produits! Dans ce role, vous aurez en charge la feuille de route d&apos;un produit, de la conception à l&apos;implémentation et au-dela. Nous croyons dans l&apos;amélioration continue de nos fonctionnalités qui ont déjà été livrées, ainsi qu&apos;à la mesure de leur impact auprès de nos utilisateurs. <br /><br />Votre capacité à rechercher, être créatif, gérer, et écouter va déterminer le futur du produit. Ce role est interdisciplinaire, et vous travaillerez avec les équipes Design, Ingenierie, Data Science, et Marketing Produit, pour délivrer un produit de classe internationale. Vous lancerez de nouveaux produits qui contribuent à notre mission d&apos;entreprise.<br /><br />Vous rejoindrez une équipe supportive, composée d&apos;un groupe de talentueux Product Manager, Designers, et Ingénieurs basés á Berlin, San Francisco, Krakow, et à domicile. Nous sommes à la recherche de quelqu&apos;un qui aimera l&apos;innovation des technologies de recrutement autant que nous l&apos;aimons!</p>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Ability to make things happen</li><li>Ability to turn complexity and uncertainty into awesomeness</li><li>Self-starter with with an appetite and ability to own a large part of the product</li><li>Experience designing products that optimize web and mobile visit conversion</li><li>Product management experience at a SaaS or B2C start-up</li><li>Experience working with job boards (both mainstream &amp; niche)</li><li>Good grasp of UX</li><li>Excellent communication skills</li><li>Attention to detail</li><li>Fluent in English</li></ul><p> </p><ul><li>Faculté à faire en sorte que les sujets avancent et aboutissent</li><li>Faculté à transformer la complexité et l&apos;incertitude en un superbe produit</li><li>Vous êtes indépendant, avec un appétit pour gérer une part importante du produit</li><li>Une experience dans le design de produits qui optimisent les conversions internet et mobile</li><li>Une experience en gestion de produit dans une entreprise SaaS ou B2C (environnement startup idéalement)</li><li>Une experience de travail avec les job boards (principaux, et niches)</li><li>Bon niveau de comprehension des problematiques UX</li><li>Tres bonnes qualites de communication</li><li>Attention au détail</li><li>Anglais courant</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Renseignements complémentaires",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>We are a fast growing, series D funded start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"information_technology",
+      "label":"Tecnologias da informação"
+   },
+   "department":{
+      "id":18588,
+      "label":"Product"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"fr-CA",
+      "label":"Francês (Canadá)",
+      "labelNative":"français (Canada)"
+   }
+}

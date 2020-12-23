@@ -1,0 +1,103 @@
+{
+   "id":"743999729219221",
+   "name":"DevOps Engineer - Regular/Senior/Lead",
+   "uuid":"c714094c-1ec2-41e1-b11d-ef9f2d4a5873",
+   "refNumber":"REF820A",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Kraków",
+      "region":"małopolskie",
+      "country":"pl",
+      "address":"Fabryczna 20A",
+      "postalCode":"31-553",
+      "remote":false
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18571",
+         "valueLabel":"Engineering"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"pl",
+         "valueLabel":"Polônia"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+         "valueLabel":"P1"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:50.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219221-devops-engineer-regular-senior-lead",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219221-devops-engineer-regular-senior-lead?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/c714094c-1ec2-41e1-b11d-ef9f2d4a5873?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! <br />Our platform is used by hiring teams of Twitter, Visa, Ubisoft, or McDonald’s. We also helped over 50 million candidates through their job search journey.<br />We understand that working hard means you should play hard too, that’s why we offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. This is a casual and pet-friendly place. Enjoy catered meals, unlimited snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>Did you ever want to challenge software/scaling problems that Facebook had in its early stages? If you think that these kinds of challenges are exciting then you are most welcome to join our team in Kraków.</p><p><strong>You will:</strong></p><ul><li>Make our development team more effective by building scripts and automation solutions</li><li>Define, develop, and implement monitoring methodologies to gain improvements in platform&apos;s efficiency and scalability</li><li>Improve our deployment and release processes</li><li>Respond to client threats and remediate issues</li><li>Mentor members of the engineering team</li><li>Document standards, best practices, and policies</li><li>Co-operate with our San Francisco based team in different cycles of product development</li><li>You will work with technologies like: AWS, Docker (Kubernetes), HashiCorp tools (Terraform, Consul, Vault,...), Chef, Ansible, SQL and NoSQL databases, Nginx, ...</li></ul><p><strong>This offer is for you, if:</strong></p><ul><li>You like working in a fast-paced, agile environment</li><li>You want to experience the atmosphere of a startup (you know what we are talking about if you have seen the movie: &quot;The Social Network&quot;)</li><li>You are a fan of web, technology, and new tech trends</li><li>You are the type of a person who wants not only to have your ideas heard but see them put into action</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Relevant experience as Infrastructure/System Administrator, SRE, Cloud Engineer</li><li>Strong linux administration experience (Ubuntu preferred)</li><li>In-depth experience with AWS (EC2, ALB/ELB/NLB, VPC, SG, ASG, Elasticache, RDS, IAM, AMI, Lambda)</li><li>Configuration management using Chef, Ansible or Salt</li><li>Kubernetes experience (administration, configuration, debugging, writing manifests) (EKS or self-hosted)</li><li>Ability to write scripts and simple applications using Python or Ruby</li><li>Experience with infrastructure as code using Terraform</li><li>Web server experience with Nginx or Apache</li><li>Experience with distributed systems</li><li>Strong communication skills, with a good understanding of English, both verbal and written </li></ul><p> </p><p>Nice to haves:</p><ul><li>Gitops (Flux+Kustomize, Helm, or similiar)</li><li>Monitoring systems experience (ELK stack, Grafana, Prometheus, Sensu) </li><li>Experience with Hashicorp tools Vault, Consul, Packer</li><li>Administration of Solr, Mongo and Elasticsearch clusters</li><li>Software engineering/dev background</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.<br />We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.<br />SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://youtu.be/yRS7Ec05WjA"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"information_technology",
+      "label":"Tecnologias da informação"
+   },
+   "department":{
+      "id":18571,
+      "label":"Engineering"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

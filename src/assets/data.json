@@ -1,37 +1,37 @@
 {
    "offset":0,
    "limit":100,
-   "totalFound":31,
+   "totalFound":46,
    "content":[
       {
-         "id":"743999723228373",
-         "name":"Marketing Operations Manager",
-         "uuid":"61c5b69d-62d7-4fc5-a2be-d48cb441005a",
-         "refNumber":"REF862S",
+         "id":"743999729231975",
+         "name":"Regular / Senior Security Engineer",
+         "uuid":"e1603e2d-5d0a-4254-9d70-5aec97339903",
+         "refNumber":"REF893B",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-29T23:19:22.000Z",
+         "releasedDate":"2020-12-23T15:22:39.000Z",
          "location":{
-            "city":"Atlanta",
-            "region":"GA",
-            "country":"us",
-            "address":"270 Peachtree Street",
-            "postalCode":"30303",
-            "remote":true
+            "city":"Kraków",
+            "region":"małopolskie",
+            "country":"pl",
+            "address":"Fabryczna 20A",
+            "postalCode":"31-553",
+            "remote":false
          },
          "industry":{
-            "id":"computer_software",
-            "label":"Programas informáticos"
+            "id":"internet",
+            "label":"Internet"
          },
          "department":{
-            "id":"18554",
-            "label":"Marketing"
+            "id":"18571",
+            "label":"Engineering"
          },
          "function":{
-            "id":"marketing",
-            "label":"Marketing"
+            "id":"engineering",
+            "label":"Engenharia"
          },
          "typeOfEmployment":{
             "label":"Tempo inteiro"
@@ -44,8 +44,81 @@
             {
                "fieldId":"58b7e4d6e4b0885c92cd98ee",
                "fieldLabel":"Departmento",
-               "valueId":"18554",
-               "valueLabel":"Marketing"
+               "valueId":"18571",
+               "valueLabel":"Engineering"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"pl",
+               "valueLabel":"Polônia"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729231975",
+         "creator":{
+            "name":"Igor Czechowski"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729219304",
+         "name":"Sales Development Representative",
+         "uuid":"9eb36f56-0299-4fcc-91b1-aa5244e0ed9b",
+         "refNumber":"REF587W",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:55.000Z",
+         "location":{
+            "city":"Spokane",
+            "region":"WA",
+            "country":"us",
+            "address":"108 North Washington Street",
+            "postalCode":"99201",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"entry_level",
+            "label":"Sem experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
             },
             {
                "fieldId":"COUNTRY",
@@ -62,13 +135,13 @@
             {
                "fieldId":"562ff01ce4b06de2b1d46caf",
                "fieldLabel":"Priority",
-               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
-               "valueLabel":"P2"
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723228373",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219304",
          "creator":{
-            "name":"Maggie Hennessey"
+            "name":"Integrations User"
          },
          "language":{
             "code":"en",
@@ -77,34 +150,34 @@
          }
       },
       {
-         "id":"743999723228147",
-         "name":"Marketing Operations Manager",
-         "uuid":"2a5bda47-37b4-43cb-b330-11b7979e0656",
-         "refNumber":"REF862S",
+         "id":"743999729219309",
+         "name":"Customer Support Representative",
+         "uuid":"2e1b4c65-2588-45f3-8e6b-e29f99b03d25",
+         "refNumber":"REF533A",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-29T23:14:33.000Z",
+         "releasedDate":"2020-12-23T13:00:55.000Z",
          "location":{
-            "city":"San Francisco",
-            "region":"CA",
-            "country":"us",
-            "address":"225 Bush Street",
-            "postalCode":"94104",
-            "remote":true
+            "city":"Kraków",
+            "region":"małopolskie",
+            "country":"pl",
+            "address":"Fabryczna 20A",
+            "postalCode":"31-553",
+            "remote":false
          },
          "industry":{
-            "id":"computer_software",
-            "label":"Programas informáticos"
+            "id":"internet",
+            "label":"Internet"
          },
          "department":{
-            "id":"18554",
-            "label":"Marketing"
+            "id":"18605",
+            "label":"Client Success"
          },
          "function":{
-            "id":"marketing",
-            "label":"Marketing"
+            "id":"customer_service",
+            "label":"Serviço de apoio ao cliente"
          },
          "typeOfEmployment":{
             "label":"Tempo inteiro"
@@ -117,14 +190,14 @@
             {
                "fieldId":"58b7e4d6e4b0885c92cd98ee",
                "fieldLabel":"Departmento",
-               "valueId":"18554",
-               "valueLabel":"Marketing"
+               "valueId":"18605",
+               "valueLabel":"Client Success"
             },
             {
                "fieldId":"COUNTRY",
                "fieldLabel":"País",
-               "valueId":"us",
-               "valueLabel":"Estados Unidos"
+               "valueId":"pl",
+               "valueLabel":"Polônia"
             },
             {
                "fieldId":"58b7e4d6e4b0885c92cd98eb",
@@ -139,9 +212,9 @@
                "valueLabel":"P2"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723228147",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219309",
          "creator":{
-            "name":"Maggie Hennessey"
+            "name":"Integrations User"
          },
          "language":{
             "code":"en",
@@ -150,15 +223,88 @@
          }
       },
       {
-         "id":"743999723035396",
+         "id":"743999729219290",
+         "name":"Software Engineer, Android",
+         "uuid":"44324766-704d-435f-a849-aef90ea1a422",
+         "refNumber":"REF734N",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:54.000Z",
+         "location":{
+            "city":"Kraków",
+            "region":"małopolskie",
+            "country":"pl",
+            "address":"Fabryczna 20A",
+            "postalCode":"31-553",
+            "remote":false
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"18571",
+            "label":"Engineering"
+         },
+         "function":{
+            "id":"information_technology",
+            "label":"Tecnologias da informação"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"18571",
+               "valueLabel":"Engineering"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"pl",
+               "valueLabel":"Polônia"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219290",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729219265",
          "name":"Enterprise Solutions Consultant (DACH)",
-         "uuid":"5cb3ea15-e02f-40e6-8870-f77d096e3a0b",
+         "uuid":"45502177-d16f-4463-a88e-ff961e8cb4b6",
          "refNumber":"REF776M",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:04:20.000Z",
+         "releasedDate":"2020-12-23T13:00:53.000Z",
          "location":{
             "city":"Düsseldorf",
             "region":"NRW",
@@ -212,7 +358,7 @@
                "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723035396",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219265",
          "creator":{
             "name":"Integrations User"
          },
@@ -223,15 +369,88 @@
          }
       },
       {
-         "id":"743999723035321",
-         "name":"Software Engineer, Android",
-         "uuid":"a340f0a6-e115-4327-b6af-711d342fde24",
-         "refNumber":"REF734N",
+         "id":"743999729219272",
+         "name":"Senior Product Designer",
+         "uuid":"b4e45799-6365-469b-9e35-0c083e01eec8",
+         "refNumber":"REF760P",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:04:08.000Z",
+         "releasedDate":"2020-12-23T13:00:53.000Z",
+         "location":{
+            "city":"Berlin",
+            "region":"Berlin",
+            "country":"de",
+            "address":"Winsstraße 62-63",
+            "postalCode":"10405",
+            "remote":false
+         },
+         "industry":{
+            "id":"internet",
+            "label":"Internet"
+         },
+         "department":{
+            "id":"18588",
+            "label":"Product"
+         },
+         "function":{
+            "id":"design",
+            "label":"Design"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"18588",
+               "valueLabel":"Product"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"de",
+               "valueLabel":"Alemanha"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+               "valueLabel":"P2"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219272",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729219255",
+         "name":"Backend Software Engineer (Regular/Senior/Lead)",
+         "uuid":"bb49d7f2-8548-44f7-9099-bf47a19d4980",
+         "refNumber":"REF781D",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:52.000Z",
          "location":{
             "city":"Kraków",
             "region":"małopolskie",
@@ -249,8 +468,8 @@
             "label":"Engineering"
          },
          "function":{
-            "id":"information_technology",
-            "label":"Tecnologias da informação"
+            "id":"engineering",
+            "label":"Engenharia"
          },
          "typeOfEmployment":{
             "label":"Tempo inteiro"
@@ -285,7 +504,7 @@
                "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723035321",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219255",
          "creator":{
             "name":"Integrations User"
          },
@@ -296,15 +515,15 @@
          }
       },
       {
-         "id":"743999723035267",
+         "id":"743999729219226",
          "name":"Frontend Software Engineer (Regular/Senior/Lead)",
-         "uuid":"0f15369f-19d4-490c-9f34-0c2805cf50ee",
+         "uuid":"9aea7e86-8dc6-48e9-8579-6b537cbc3279",
          "refNumber":"REF784G",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:04:00.000Z",
+         "releasedDate":"2020-12-23T13:00:51.000Z",
          "location":{
             "city":"Kraków",
             "region":"małopolskie",
@@ -358,7 +577,7 @@
                "valueLabel":"P2"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723035267",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219226",
          "creator":{
             "name":"Integrations User"
          },
@@ -369,15 +588,15 @@
          }
       },
       {
-         "id":"743999723035194",
-         "name":"Backend Software Engineer (Regular/Senior/Lead)",
-         "uuid":"ecf2ac6a-724b-4d74-af05-9b0de0ca52d6",
-         "refNumber":"REF781D",
+         "id":"743999729219238",
+         "name":"Customer Support Representative (Night Shifts)",
+         "uuid":"88b89cd0-37ea-44ab-80a9-24e0b584225f",
+         "refNumber":"REF782K",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:03:55.000Z",
+         "releasedDate":"2020-12-23T13:00:51.000Z",
          "location":{
             "city":"Kraków",
             "region":"małopolskie",
@@ -391,12 +610,12 @@
             "label":"Programas informáticos"
          },
          "department":{
-            "id":"18571",
-            "label":"Engineering"
+            "id":"18605",
+            "label":"Client Success"
          },
          "function":{
-            "id":"engineering",
-            "label":"Engenharia"
+            "id":"customer_service",
+            "label":"Serviço de apoio ao cliente"
          },
          "typeOfEmployment":{
             "label":"Tempo inteiro"
@@ -409,8 +628,8 @@
             {
                "fieldId":"58b7e4d6e4b0885c92cd98ee",
                "fieldLabel":"Departmento",
-               "valueId":"18571",
-               "valueLabel":"Engineering"
+               "valueId":"18605",
+               "valueLabel":"Client Success"
             },
             {
                "fieldId":"COUNTRY",
@@ -427,11 +646,11 @@
             {
                "fieldId":"562ff01ce4b06de2b1d46caf",
                "fieldLabel":"Priority",
-               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
-               "valueLabel":"P1"
+               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+               "valueLabel":"P2"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723035194",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219238",
          "creator":{
             "name":"Integrations User"
          },
@@ -442,15 +661,15 @@
          }
       },
       {
-         "id":"743999723035155",
-         "name":"Senior DevOps Engineer",
-         "uuid":"52201e9d-0e86-48c3-ae47-268c0a71dde9",
+         "id":"743999729219221",
+         "name":"DevOps Engineer - Regular/Senior/Lead",
+         "uuid":"c714094c-1ec2-41e1-b11d-ef9f2d4a5873",
          "refNumber":"REF820A",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:03:49.000Z",
+         "releasedDate":"2020-12-23T13:00:50.000Z",
          "location":{
             "city":"Kraków",
             "region":"małopolskie",
@@ -504,7 +723,7 @@
                "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723035155",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219221",
          "creator":{
             "name":"Integrations User"
          },
@@ -515,88 +734,15 @@
          }
       },
       {
-         "id":"743999723035095",
-         "name":"Frontend Software Engineer - Candidate Experience Team",
-         "uuid":"6ad7c791-dd4d-4b0c-ab15-7352243769fc",
-         "refNumber":"REF823N",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:03:37.000Z",
-         "location":{
-            "city":"Berlin",
-            "region":"Berlin",
-            "country":"de",
-            "address":"Wilhelmstraße 118",
-            "postalCode":"10963",
-            "remote":false
-         },
-         "industry":{
-            "id":"internet",
-            "label":"Internet"
-         },
-         "department":{
-            "id":"18571",
-            "label":"Engineering"
-         },
-         "function":{
-            "id":"information_technology",
-            "label":"Tecnologias da informação"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"mid_senior_level",
-            "label":"Com experiência"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"18571",
-               "valueLabel":"Engineering"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"de",
-               "valueLabel":"Alemanha"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
-               "valueLabel":"P1"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723035095",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723035082",
+         "id":"743999729219195",
          "name":"Backend Software Engineer - Candidate Experience Team",
-         "uuid":"3b8048fb-be68-4813-a0e5-c0576743685e",
+         "uuid":"b07beca5-e844-4ed1-aaf2-16bebddb6391",
          "refNumber":"REF824E",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:03:30.000Z",
+         "releasedDate":"2020-12-23T13:00:49.000Z",
          "location":{
             "city":"Berlin",
             "region":"Berlin",
@@ -650,7 +796,7 @@
                "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723035082",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219195",
          "creator":{
             "name":"Integrations User"
          },
@@ -661,15 +807,88 @@
          }
       },
       {
-         "id":"743999723035056",
+         "id":"743999729219211",
+         "name":"Frontend Software Engineer - Candidate Experience Team",
+         "uuid":"874e0fd6-956a-4460-b8fc-295f75af77b9",
+         "refNumber":"REF823N",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:49.000Z",
+         "location":{
+            "city":"Berlin",
+            "region":"Berlin",
+            "country":"de",
+            "address":"Wilhelmstraße 118",
+            "postalCode":"10963",
+            "remote":false
+         },
+         "industry":{
+            "id":"internet",
+            "label":"Internet"
+         },
+         "department":{
+            "id":"18571",
+            "label":"Engineering"
+         },
+         "function":{
+            "id":"information_technology",
+            "label":"Tecnologias da informação"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"18571",
+               "valueLabel":"Engineering"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"de",
+               "valueLabel":"Alemanha"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219211",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729219177",
          "name":"Product Manager",
-         "uuid":"18f52742-7307-43f4-9f9b-998693d5abee",
+         "uuid":"57d2ba7f-5937-475b-858d-173d43b3af54",
          "refNumber":"REF837A",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:03:25.000Z",
+         "releasedDate":"2020-12-23T13:00:48.000Z",
          "location":{
             "city":"Philadelphia",
             "region":"PA",
@@ -723,7 +942,7 @@
                "valueLabel":"P2"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723035056",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219177",
          "creator":{
             "name":"Integrations User"
          },
@@ -734,15 +953,88 @@
          }
       },
       {
-         "id":"743999723035047",
+         "id":"743999729219182",
+         "name":"Python ETL Engineer",
+         "uuid":"d5107f24-6616-41c2-9e11-ab0113ea0cf4",
+         "refNumber":"REF825P",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:48.000Z",
+         "location":{
+            "city":"Kraków",
+            "region":"małopolskie",
+            "country":"pl",
+            "address":"Fabryczna 20A",
+            "postalCode":"31-553",
+            "remote":false
+         },
+         "industry":{
+            "id":"internet",
+            "label":"Internet"
+         },
+         "department":{
+            "id":"18605",
+            "label":"Client Success"
+         },
+         "function":{
+            "id":"information_technology",
+            "label":"Tecnologias da informação"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"18605",
+               "valueLabel":"Client Success"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"pl",
+               "valueLabel":"Polônia"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219182",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729219172",
          "name":"Product Manager / Manager Produit",
-         "uuid":"3356ce70-8e7a-4eff-aba9-8ece5c608fd2",
+         "uuid":"439738d0-743a-4eb1-b648-c38569ff552e",
          "refNumber":"REF838B",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:03:24.000Z",
+         "releasedDate":"2020-12-23T13:00:47.000Z",
          "location":{
             "city":"Montréal",
             "region":"QC",
@@ -796,7 +1088,7 @@
                "valueLabel":"P2"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723035047",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219172",
          "creator":{
             "name":"Integrations User"
          },
@@ -807,379 +1099,15 @@
          }
       },
       {
-         "id":"743999723034983",
-         "name":"Demand Generation Manager",
-         "uuid":"696479dd-a765-4e61-bf34-d8d30a51adb4",
-         "refNumber":"REF842U",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:03:17.000Z",
-         "location":{
-            "city":"San Francisco",
-            "region":"CA",
-            "country":"us",
-            "address":"225 Bush Street",
-            "postalCode":"94104",
-            "remote":true
-         },
-         "industry":{
-            "id":"computer_software",
-            "label":"Programas informáticos"
-         },
-         "department":{
-            "id":"18554",
-            "label":"Marketing"
-         },
-         "function":{
-            "id":"marketing",
-            "label":"Marketing"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"mid_senior_level",
-            "label":"Com experiência"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"18554",
-               "valueLabel":"Marketing"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"us",
-               "valueLabel":"Estados Unidos"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
-               "valueLabel":"P2"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034983",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723034924",
-         "name":"Junior DevOps Engineer",
-         "uuid":"4c5d970e-6b29-4315-b7d1-7d0c801d4931",
-         "refNumber":"REF844K",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:03:08.000Z",
-         "location":{
-            "city":"Kraków",
-            "region":"małopolskie",
-            "country":"pl",
-            "address":"Fabryczna 20A",
-            "postalCode":"31-553",
-            "remote":false
-         },
-         "industry":{
-            "id":"computer_software",
-            "label":"Programas informáticos"
-         },
-         "department":{
-            "id":"18571",
-            "label":"Engineering"
-         },
-         "function":{
-            "id":"information_technology",
-            "label":"Tecnologias da informação"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"associate",
-            "label":"Especialista"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"18571",
-               "valueLabel":"Engineering"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"pl",
-               "valueLabel":"Polônia"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
-               "valueLabel":"P1"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034924",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723034837",
-         "name":"DevOps Database Engineer",
-         "uuid":"176bb313-9773-4b52-89f4-f68408e00733",
-         "refNumber":"REF846Y",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:02:56.000Z",
-         "location":{
-            "city":"Kraków",
-            "region":"małopolskie",
-            "country":"pl",
-            "address":"Fabryczna 20A",
-            "postalCode":"31-553",
-            "remote":true
-         },
-         "industry":{
-            "id":"computer_software",
-            "label":"Programas informáticos"
-         },
-         "department":{
-            "id":"18571",
-            "label":"Engineering"
-         },
-         "function":{
-            "id":"information_technology",
-            "label":"Tecnologias da informação"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"mid_senior_level",
-            "label":"Com experiência"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"18571",
-               "valueLabel":"Engineering"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"pl",
-               "valueLabel":"Polônia"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
-               "valueLabel":"P1"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034837",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723034832",
-         "name":"DevOps Engineer",
-         "uuid":"fe8daeb5-9920-4638-88f2-df97ebd07698",
-         "refNumber":"REF845C",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:02:55.000Z",
-         "location":{
-            "city":"Kraków",
-            "region":"małopolskie",
-            "country":"pl",
-            "address":"Fabryczna 20A",
-            "postalCode":"31-553",
-            "remote":true
-         },
-         "industry":{
-            "id":"computer_software",
-            "label":"Programas informáticos"
-         },
-         "department":{
-            "id":"18571",
-            "label":"Engineering"
-         },
-         "function":{
-            "id":"information_technology",
-            "label":"Tecnologias da informação"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"mid_senior_level",
-            "label":"Com experiência"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"18571",
-               "valueLabel":"Engineering"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"pl",
-               "valueLabel":"Polônia"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
-               "valueLabel":"P1"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034832",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723034827",
-         "name":"Data Protection Officer",
-         "uuid":"22d70c79-70b1-43e6-851b-11f4f955ad2b",
-         "refNumber":"REF848D",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:02:54.000Z",
-         "location":{
-            "city":"Berlin",
-            "region":"Berlin",
-            "country":"de",
-            "address":"Wilhelmstraße",
-            "remote":true
-         },
-         "industry":{
-            "id":"computer_software",
-            "label":"Programas informáticos"
-         },
-         "department":{
-            "id":"354474",
-            "label":"Finance & Admin"
-         },
-         "function":{
-            "id":"information_technology",
-            "label":"Tecnologias da informação"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"mid_senior_level",
-            "label":"Com experiência"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"354474",
-               "valueLabel":"Finance & Admin"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"de",
-               "valueLabel":"Alemanha"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
-               "valueLabel":"P1"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034827",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723034767",
+         "id":"743999729219156",
          "name":"Senior Data Scientist - Candidate Insights Team",
-         "uuid":"8e1a6b0e-ecab-4e78-8822-9fd46e04690c",
+         "uuid":"3b86c643-742b-43a1-9b17-c7cf4cea3f15",
          "refNumber":"REF849B",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:02:46.000Z",
+         "releasedDate":"2020-12-23T13:00:46.000Z",
          "location":{
             "city":"Berlin",
             "region":"Berlin",
@@ -1233,7 +1161,7 @@
                "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034767",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219156",
          "creator":{
             "name":"Integrations User"
          },
@@ -1244,234 +1172,15 @@
          }
       },
       {
-         "id":"743999723034735",
-         "name":"Engineering Manager - Candidate Group",
-         "uuid":"a7515bee-49e8-449c-95c0-c4d7efc505ee",
-         "refNumber":"REF850W",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:02:43.000Z",
-         "location":{
-            "city":"Berlin",
-            "region":"Berlin",
-            "country":"de",
-            "address":"Wilhelmstraße 118",
-            "postalCode":"10963",
-            "remote":false
-         },
-         "industry":{
-            "id":"internet",
-            "label":"Internet"
-         },
-         "department":{
-            "id":"18571",
-            "label":"Engineering"
-         },
-         "function":{
-            "id":"information_technology",
-            "label":"Tecnologias da informação"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"director",
-            "label":"Diretor"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"18571",
-               "valueLabel":"Engineering"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"de",
-               "valueLabel":"Alemanha"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
-               "valueLabel":"P1"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034735",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723034707",
-         "name":"Implementation Consultant",
-         "uuid":"7dd943aa-72c8-467c-b0d3-acaa08af1c2d",
-         "refNumber":"REF853Q",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:02:36.000Z",
-         "location":{
-            "city":"San Francisco",
-            "region":"CA",
-            "country":"us",
-            "address":"225 Bush Street",
-            "postalCode":"94104",
-            "remote":true
-         },
-         "industry":{
-            "id":"computer_software",
-            "label":"Programas informáticos"
-         },
-         "department":{
-            "id":"18605",
-            "label":"Client Success"
-         },
-         "function":{
-            "id":"project_management",
-            "label":"Gestão de projetos"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"mid_senior_level",
-            "label":"Com experiência"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"18605",
-               "valueLabel":"Client Success"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"us",
-               "valueLabel":"Estados Unidos"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
-               "valueLabel":"P1"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034707",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723034495",
-         "name":"Customer Support Representative (German speaker)",
-         "uuid":"c8cf630b-6d8c-4efe-a1c5-da52812fe303",
-         "refNumber":"REF856V",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:02:04.000Z",
-         "location":{
-            "city":"Kraków",
-            "region":"małopolskie",
-            "country":"pl",
-            "address":"Fabryczna 20A",
-            "postalCode":"31-553",
-            "remote":false
-         },
-         "industry":{
-            "id":"internet",
-            "label":"Internet"
-         },
-         "department":{
-            "id":"18605",
-            "label":"Client Success"
-         },
-         "function":{
-            "id":"customer_service",
-            "label":"Serviço de apoio ao cliente"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"mid_senior_level",
-            "label":"Com experiência"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"18605",
-               "valueLabel":"Client Success"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"pl",
-               "valueLabel":"Polônia"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
-               "valueLabel":"P1"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034495",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723034438",
+         "id":"743999729219143",
          "name":"Technical Services Manager",
-         "uuid":"89a8be1d-0ab7-491f-9265-b853d44e0ea7",
+         "uuid":"b13f4d68-229f-4ba2-bab4-4d1a1cecf994",
          "refNumber":"REF857U",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:01:49.000Z",
+         "releasedDate":"2020-12-23T13:00:45.000Z",
          "location":{
             "city":"Kraków",
             "region":"małopolskie",
@@ -1525,7 +1234,7 @@
                "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034438",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219143",
          "creator":{
             "name":"Integrations User"
          },
@@ -1536,15 +1245,15 @@
          }
       },
       {
-         "id":"743999723034375",
+         "id":"743999729219130",
          "name":"Sales Development Representative (Contract)",
-         "uuid":"c82280e7-3695-4d07-8cee-59176997f625",
+         "uuid":"c9913e1b-f422-4b00-90d9-6472b994c532",
          "refNumber":"REF860G",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:01:34.000Z",
+         "releasedDate":"2020-12-23T13:00:45.000Z",
          "location":{
             "city":"Sydney",
             "region":"NSW",
@@ -1592,7 +1301,7 @@
                "valueLabel":"SmartRecruiters Inc"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034375",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219130",
          "creator":{
             "name":"Integrations User"
          },
@@ -1603,82 +1312,15 @@
          }
       },
       {
-         "id":"743999723034253",
-         "name":"Enterprise Customer Success Manager",
-         "uuid":"6cf81010-17ce-41fe-a1d7-5a58264c00e6",
-         "refNumber":"REF865J",
-         "company":{
-            "identifier":"smartrecruiters",
-            "name":"SmartRecruiters Inc"
-         },
-         "releasedDate":"2020-10-28T13:01:12.000Z",
-         "location":{
-            "city":"Berlin",
-            "region":"Berlin",
-            "country":"de",
-            "address":"Wilhelmstraße 118",
-            "postalCode":"10963",
-            "remote":true
-         },
-         "industry":{
-            "id":"computer_software",
-            "label":"Programas informáticos"
-         },
-         "department":{
-            "id":"18605",
-            "label":"Client Success"
-         },
-         "function":{
-            "id":"sales",
-            "label":"Vendas"
-         },
-         "typeOfEmployment":{
-            "label":"Tempo inteiro"
-         },
-         "experienceLevel":{
-            "id":"mid_senior_level",
-            "label":"Com experiência"
-         },
-         "customField":[
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98ee",
-               "fieldLabel":"Departmento",
-               "valueId":"18605",
-               "valueLabel":"Client Success"
-            },
-            {
-               "fieldId":"COUNTRY",
-               "fieldLabel":"País",
-               "valueId":"de",
-               "valueLabel":"Alemanha"
-            },
-            {
-               "fieldId":"58b7e4d6e4b0885c92cd98eb",
-               "fieldLabel":"Marcas",
-               "valueId":"default",
-               "valueLabel":"SmartRecruiters Inc"
-            }
-         ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034253",
-         "creator":{
-            "name":"Integrations User"
-         },
-         "language":{
-            "code":"en",
-            "label":"Inglês",
-            "labelNative":"English (US)"
-         }
-      },
-      {
-         "id":"743999723034154",
+         "id":"743999729219120",
          "name":"Digital Marketing Manager - German speaking",
-         "uuid":"59546b06-6d54-472c-932f-bf8f4aa860b3",
+         "uuid":"0ed240ee-0519-4f65-baf1-8d31885ac999",
          "refNumber":"REF867I",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:00:59.000Z",
+         "releasedDate":"2020-12-23T13:00:44.000Z",
          "location":{
             "city":"Berlin",
             "region":"Berlin",
@@ -1731,7 +1373,7 @@
                "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034154",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219120",
          "creator":{
             "name":"Integrations User"
          },
@@ -1742,15 +1384,161 @@
          }
       },
       {
-         "id":"743999723034056",
+         "id":"743999729219125",
+         "name":"AP Junior Accountant",
+         "uuid":"07872f11-9d85-4d92-a82b-8429f8db930b",
+         "refNumber":"REF864W",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:44.000Z",
+         "location":{
+            "city":"Kraków",
+            "region":"małopolskie",
+            "country":"pl",
+            "address":"Fabryczna 20A",
+            "postalCode":"31-553",
+            "remote":false
+         },
+         "industry":{
+            "id":"internet",
+            "label":"Internet"
+         },
+         "department":{
+            "id":"354474",
+            "label":"Finance & Admin"
+         },
+         "function":{
+            "id":"finance",
+            "label":"Finanças"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"entry_level",
+            "label":"Sem experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"354474",
+               "valueLabel":"Finance & Admin"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"pl",
+               "valueLabel":"Polônia"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219125",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729219099",
+         "name":"Senior Product Marketing Manager",
+         "uuid":"646a968a-27cb-438f-910d-bf5023fafb36",
+         "refNumber":"REF870T",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:43.000Z",
+         "location":{
+            "city":"San Francisco",
+            "region":"CA",
+            "country":"us",
+            "address":"225 Bush Street",
+            "postalCode":"94104",
+            "remote":true
+         },
+         "industry":{
+            "id":"internet",
+            "label":"Internet"
+         },
+         "department":{
+            "id":"18554",
+            "label":"Marketing"
+         },
+         "function":{
+            "id":"marketing",
+            "label":"Marketing"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"18554",
+               "valueLabel":"Marketing"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+               "valueLabel":"P2"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219099",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729219111",
          "name":"Node.js Software Engineer (Regular/Senior)",
-         "uuid":"2cc0d671-55fe-4c2e-b3a2-b730af495a96",
+         "uuid":"37e95f45-2bca-46e0-ae1f-782e16e66635",
          "refNumber":"REF869W",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:00:48.000Z",
+         "releasedDate":"2020-12-23T13:00:43.000Z",
          "location":{
             "city":"Kraków",
             "region":"małopolskie",
@@ -1804,7 +1592,7 @@
                "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034056",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729219111",
          "creator":{
             "name":"Integrations User"
          },
@@ -1815,25 +1603,524 @@
          }
       },
       {
-         "id":"743999723034011",
-         "name":"Technical Product Marketing Manager",
-         "uuid":"fb453465-62c4-4e87-b7a1-62855b58ec80",
-         "refNumber":"REF870T",
+         "id":"743999729218717",
+         "name":"Software Engineer - Platform (Senior/Lead)",
+         "uuid":"dbd683c7-d050-4cf2-832c-b87519dfa13a",
+         "refNumber":"REF873N",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:00:43.000Z",
+         "releasedDate":"2020-12-23T13:00:20.000Z",
          "location":{
-            "city":"Salt Lake City",
-            "region":"UT",
+            "city":"Kraków",
+            "region":"małopolskie",
+            "country":"pl",
+            "address":"Fabryczna 20A",
+            "postalCode":"31-553",
+            "remote":false
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"18571",
+            "label":"Engineering"
+         },
+         "function":{
+            "id":"information_technology",
+            "label":"Tecnologias da informação"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"18571",
+               "valueLabel":"Engineering"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"pl",
+               "valueLabel":"Polônia"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+               "valueLabel":"P2"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218717",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218692",
+         "name":"Client Sales Executive",
+         "uuid":"ccd82792-7ca9-4390-8dfd-be26daec4308",
+         "refNumber":"REF875S",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:18.000Z",
+         "location":{
+            "city":"San Francisco",
+            "region":"CA",
             "country":"us",
-            "address":"Union Park Avenue",
+            "address":"225 Bush Street",
+            "postalCode":"94104",
             "remote":true
          },
          "industry":{
-            "id":"internet",
-            "label":"Internet"
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218692",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218677",
+         "name":"Client Sales Executive (DACH Region)",
+         "uuid":"6d5caea0-6ade-4b6b-aab3-8217bd661696",
+         "refNumber":"REF878A",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:17.000Z",
+         "location":{
+            "city":"Berlin",
+            "region":"Berlin",
+            "country":"de",
+            "address":"Wilhelmstraße 118",
+            "postalCode":"10963",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"de",
+               "valueLabel":"Alemanha"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218677",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218687",
+         "name":"Client Sales Executive",
+         "uuid":"e06cdd7b-b38c-400e-aa8c-49dc531a0ecc",
+         "refNumber":"REF877D",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:17.000Z",
+         "location":{
+            "city":"Paris",
+            "region":"IDF",
+            "country":"fr",
+            "address":"33 Rue la Fayette",
+            "postalCode":"75009",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"fr",
+               "valueLabel":"França"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218687",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218664",
+         "name":"Global Director, Sales Development",
+         "uuid":"a47e60bd-5b72-4a41-9875-110ee161547b",
+         "refNumber":"REF883G",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:16.000Z",
+         "location":{
+            "city":"San Francisco",
+            "region":"CA",
+            "country":"us",
+            "address":"225 Bush Street",
+            "postalCode":"94104",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"director",
+            "label":"Diretor"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218664",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218647",
+         "name":"Manager, North America Sales Development",
+         "uuid":"d35bbbbc-75e5-434a-b048-f9a9c8e073e4",
+         "refNumber":"REF884K",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:15.000Z",
+         "location":{
+            "city":"San Francisco",
+            "region":"CA",
+            "country":"us",
+            "address":"225 Bush Street",
+            "postalCode":"94104",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+               "valueLabel":"P2"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218647",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218640",
+         "name":"Manager, EMEA Sales Development",
+         "uuid":"726a62a5-a963-42d0-8cc0-b25e9dc3e34d",
+         "refNumber":"REF885O",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:14.000Z",
+         "location":{
+            "city":"London",
+            "region":"England",
+            "country":"gb",
+            "address":"King's Cross Road",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"gb",
+               "valueLabel":"Reino Unido"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+               "valueLabel":"P2"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218640",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218635",
+         "name":"Lifecycle Marketing Manager",
+         "uuid":"a8b59e39-9565-4f75-9f43-8fef282c2fc8",
+         "refNumber":"REF886C",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:13.000Z",
+         "location":{
+            "city":"San Francisco",
+            "region":"CA",
+            "country":"us",
+            "address":"225 Bush Street",
+            "postalCode":"94104",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
          },
          "department":{
             "id":"18554",
@@ -1868,15 +2155,9 @@
                "fieldLabel":"Marcas",
                "valueId":"default",
                "valueLabel":"SmartRecruiters Inc"
-            },
-            {
-               "fieldId":"562ff01ce4b06de2b1d46caf",
-               "fieldLabel":"Priority",
-               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
-               "valueLabel":"P2"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723034011",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218635",
          "creator":{
             "name":"Integrations User"
          },
@@ -1887,21 +2168,22 @@
          }
       },
       {
-         "id":"743999723033895",
-         "name":"Account Based Marketing Manager",
-         "uuid":"2487743d-bcd1-476e-883b-be4796865b69",
-         "refNumber":"REF872U",
+         "id":"743999729218618",
+         "name":"Sales Development Representative",
+         "uuid":"327dcf5d-a057-444c-ba2b-090b85b7c989",
+         "refNumber":"REF887U",
          "company":{
             "identifier":"smartrecruiters",
             "name":"SmartRecruiters Inc"
          },
-         "releasedDate":"2020-10-28T13:00:25.000Z",
+         "releasedDate":"2020-12-23T13:00:12.000Z",
          "location":{
-            "city":"Berlin",
-            "region":"Berlin",
-            "country":"de",
-            "address":"Wilhelmstraße",
-            "remote":true
+            "city":"London",
+            "region":"England",
+            "country":"gb",
+            "address":"8 Devonshire Square",
+            "postalCode":"EC2M 4PL",
+            "remote":false
          },
          "industry":{
             "id":"internet",
@@ -1912,8 +2194,8 @@
             "label":"Marketing"
          },
          "function":{
-            "id":"marketing",
-            "label":"Marketing"
+            "id":"sales",
+            "label":"Vendas"
          },
          "typeOfEmployment":{
             "label":"Tempo inteiro"
@@ -1932,8 +2214,8 @@
             {
                "fieldId":"COUNTRY",
                "fieldLabel":"País",
-               "valueId":"de",
-               "valueLabel":"Alemanha"
+               "valueId":"gb",
+               "valueLabel":"Reino Unido"
             },
             {
                "fieldId":"58b7e4d6e4b0885c92cd98eb",
@@ -1944,13 +2226,804 @@
             {
                "fieldId":"562ff01ce4b06de2b1d46caf",
                "fieldLabel":"Priority",
-               "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
-               "valueLabel":"P2"
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
             }
          ],
-         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999723033895",
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218618",
          "creator":{
             "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218603",
+         "name":"Sales Development Representative",
+         "uuid":"2670253d-2e6c-4451-bf92-2516a4416677",
+         "refNumber":"REF888K",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:11.000Z",
+         "location":{
+            "city":"Paris",
+            "region":"IDF",
+            "country":"fr",
+            "address":"33 Rue la Fayette",
+            "postalCode":"75009",
+            "remote":false
+         },
+         "industry":{
+            "id":"internet",
+            "label":"Internet"
+         },
+         "department":{
+            "id":"18554",
+            "label":"Marketing"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"18554",
+               "valueLabel":"Marketing"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"fr",
+               "valueLabel":"França"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218603",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218596",
+         "name":"Client Sales Executive",
+         "uuid":"3f147552-56fa-4c79-9b24-9d4c0ea96933",
+         "refNumber":"REF890M",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:10.000Z",
+         "location":{
+            "city":"Durham",
+            "region":"NC",
+            "country":"us",
+            "address":"601 West Main Street",
+            "postalCode":"27701",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218596",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999729218536",
+         "name":"Client Sales Executive",
+         "uuid":"83c06127-ac7a-438e-a91c-2666cc063151",
+         "refNumber":"REF891X",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-12-23T13:00:06.000Z",
+         "location":{
+            "city":"Austin",
+            "region":"TX",
+            "country":"us",
+            "address":"250 North Lamar Boulevard",
+            "postalCode":"78703",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999729218536",
+         "creator":{
+            "name":"Integrations User"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999724367177",
+         "name":"Client Sales Executive",
+         "uuid":"e468d22c-ec03-4217-9a67-e50c3d0c1fd9",
+         "refNumber":"REF875S",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-11-11T16:39:11.000Z",
+         "location":{
+            "city":"Jacksonville",
+            "region":"FL",
+            "country":"us",
+            "address":"3570 Clifford Lane",
+            "postalCode":"32209",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999724367177",
+         "creator":{
+            "name":"Maggie Hennessey"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999724367050",
+         "name":"Client Sales Executive",
+         "uuid":"f93cdafa-bc5b-42ca-9b21-eb4e78e6eb1a",
+         "refNumber":"REF875S",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-11-11T16:38:05.000Z",
+         "location":{
+            "city":"Raleigh",
+            "region":"NC",
+            "country":"us",
+            "address":"510 West Martin Street",
+            "postalCode":"27603",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999724367050",
+         "creator":{
+            "name":"Maggie Hennessey"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999724366517",
+         "name":"Client Sales Executive",
+         "uuid":"f4ab4e05-e5d2-47d5-b02a-7f4738ac5d7d",
+         "refNumber":"REF875S",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-11-11T16:35:17.000Z",
+         "location":{
+            "city":"Atlanta",
+            "region":"GA",
+            "country":"us",
+            "address":"1688 Peachtree Road Northwest",
+            "postalCode":"30309",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999724366517",
+         "creator":{
+            "name":"Maggie Hennessey"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999724366380",
+         "name":"Client Sales Executive",
+         "uuid":"60060436-e773-4fdb-b32b-c19974ddb757",
+         "refNumber":"REF875S",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-11-11T16:34:23.000Z",
+         "location":{
+            "city":"Philadelphia",
+            "region":"PA",
+            "country":"us",
+            "address":"2955 Market Street",
+            "postalCode":"19104",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"mid_senior_level",
+            "label":"Com experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999724366380",
+         "creator":{
+            "name":"Maggie Hennessey"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999724312284",
+         "name":"Sales Development Representative",
+         "uuid":"4bb6c937-4ead-4a01-8bf7-a5172b621fbf",
+         "refNumber":"REF587W",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-11-11T04:06:48.000Z",
+         "location":{
+            "city":"Raleigh",
+            "region":"NC",
+            "country":"us",
+            "address":"510 West Martin Street",
+            "postalCode":"27603",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"entry_level",
+            "label":"Sem experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999724312284",
+         "creator":{
+            "name":"Maggie Hennessey"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999724312189",
+         "name":"Sales Development Representative",
+         "uuid":"c37bd742-6e01-4455-8375-48f0fdcd3dee",
+         "refNumber":"REF587W",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-11-11T04:05:08.000Z",
+         "location":{
+            "city":"Atlanta",
+            "region":"GA",
+            "country":"us",
+            "address":"1688 Peachtree Road Northwest",
+            "postalCode":"30309",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"entry_level",
+            "label":"Sem experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999724312189",
+         "creator":{
+            "name":"Maggie Hennessey"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999724312156",
+         "name":"Sales Development Representative",
+         "uuid":"9bea6c01-0814-42b6-a153-13a6597f5072",
+         "refNumber":"REF587W",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-11-11T04:04:38.000Z",
+         "location":{
+            "city":"Philadelphia",
+            "region":"PA",
+            "country":"us",
+            "address":"2955 Market Street",
+            "postalCode":"19104",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"entry_level",
+            "label":"Sem experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999724312156",
+         "creator":{
+            "name":"Maggie Hennessey"
+         },
+         "language":{
+            "code":"en",
+            "label":"Inglês",
+            "labelNative":"English (US)"
+         }
+      },
+      {
+         "id":"743999724312103",
+         "name":"Sales Development Representative",
+         "uuid":"32884809-ba4a-4f87-aa71-990e1e4398ed",
+         "refNumber":"REF587W",
+         "company":{
+            "identifier":"smartrecruiters",
+            "name":"SmartRecruiters Inc"
+         },
+         "releasedDate":"2020-11-11T04:04:07.000Z",
+         "location":{
+            "city":"Jacksonville",
+            "region":"FL",
+            "country":"us",
+            "address":"3570 Clifford Lane",
+            "postalCode":"32209",
+            "remote":true
+         },
+         "industry":{
+            "id":"computer_software",
+            "label":"Programas informáticos"
+         },
+         "department":{
+            "id":"54016",
+            "label":"Sales"
+         },
+         "function":{
+            "id":"sales",
+            "label":"Vendas"
+         },
+         "typeOfEmployment":{
+            "label":"Tempo inteiro"
+         },
+         "experienceLevel":{
+            "id":"entry_level",
+            "label":"Sem experiência"
+         },
+         "customField":[
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98ee",
+               "fieldLabel":"Departmento",
+               "valueId":"54016",
+               "valueLabel":"Sales"
+            },
+            {
+               "fieldId":"COUNTRY",
+               "fieldLabel":"País",
+               "valueId":"us",
+               "valueLabel":"Estados Unidos"
+            },
+            {
+               "fieldId":"58b7e4d6e4b0885c92cd98eb",
+               "fieldLabel":"Marcas",
+               "valueId":"default",
+               "valueLabel":"SmartRecruiters Inc"
+            },
+            {
+               "fieldId":"562ff01ce4b06de2b1d46caf",
+               "fieldLabel":"Priority",
+               "valueId":"6feec94e-a983-4d49-a6b1-c0e4bf045ceb",
+               "valueLabel":"P1"
+            }
+         ],
+         "ref":"https://api.smartrecruiters.com/v1/companies/smartrecruiters/postings/743999724312103",
+         "creator":{
+            "name":"Maggie Hennessey"
          },
          "language":{
             "code":"en",

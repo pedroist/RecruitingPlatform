@@ -1,0 +1,104 @@
+{
+   "id":"743999729218717",
+   "name":"Software Engineer - Platform (Senior/Lead)",
+   "uuid":"dbd683c7-d050-4cf2-832c-b87519dfa13a",
+   "refNumber":"REF873N",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Kraków",
+      "region":"małopolskie",
+      "country":"pl",
+      "address":"Fabryczna 20A",
+      "postalCode":"31-553",
+      "remote":false
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18571",
+         "valueLabel":"Engineering"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"pl",
+         "valueLabel":"Polônia"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+         "valueLabel":"P2"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:20.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218717-software-engineer-platform-senior-lead-",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729218717-software-engineer-platform-senior-lead-?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/dbd683c7-d050-4cf2-832c-b87519dfa13a?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! </p><p>Our platform is used by hiring teams of Twitter, Visa, Ubisoft, or McDonald’s. We also helped over 50 million candidates through their job search journey.</p><p>We understand that working hard means you should play hard too, that’s why we offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. This is a casual and pet-friendly place. Enjoy catered meals, snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>Have you ever wanted to challenge scaling problems, work with microservice-based architecture and have a real impact on the developed product? If your answer is “yes”, we can offer you these things and much more.</p><p><strong>This offer is for you if:</strong></p><ul><li>You like working in a dynamic, agile environment where you can influence the roadmap you work on and bring your ideas to life</li><li>You want to experience the culture of a startup without the overwhelming processes or procedures</li><li>You like using technology to make life of people around you easier</li><li>You would like to contribute to a globally distributed SaaS system</li></ul><p><strong>What you will do:</strong></p><ul><li>Design, develop, test and deploy various critical components of our platform</li><li>Promote created solutions across our entire engineering organisation</li><li>Influence the productivity of the whole engineering organisation by creating new and optimising existing standards, tools and core services </li><li>Design, develop and introduce solutions to improve platform resiliency, security and observability</li><li>Optimise our continuous integration and delivery pipelines</li><li>Empower the Data Science, Product and Engineering teams to be data-driven by delivering tracking, auditing and data warehouse solutions </li><li>Document and advocate standards, best practices, and policies</li><li>Co-operate with other teams from various locations including Berlin, Kraków and San Francisco in different cycles of development</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Great commercial experience in Java</li><li>Good analytical skills</li><li>Experience in working with SQL language and relational databases e.g. PostgreSQL, Oracle</li><li>Experience in designing and building RESTful APIs</li><li>Familiarity with Linux / Unix shell scripting</li><li>Familiarity with modern distributed systems architectures and patterns</li><li>Familiarity with test automation techniques</li><li>Great communication skills with good understanding of English, both verbal and written</li></ul><p><strong>Nice to have:</strong></p><ul><li>Experience in Javascript and Node.js ecosystem</li><li>Experience in Go</li><li>Experience in Python</li><li>Experience in working with NoSQL databases</li><li>Familiarity with Amazon AWS</li><li>Familiarity with Docker and Kubernetes systems</li><li>Familiarity with full-text search engines</li><li>Familiarity with OLAP / BI tools</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters has transformed the hiring process by reducing the stress that comes along with attracting, finding, engaging, and hiring new talent. Leading enterprises like IKEA, Visa, Marc Jacobs, and Square have abandoned their outdated Applicant Tracking Systems (ATS), for our all-in-one platform. What once started as a freemium product, has now turned into the world’s fastest growing enterprise solution.</p><p>We are a fast growing, series D funded ($50M from Insight) start-up on a mission to IPO. If you&apos;re looking to surround yourself with bright and passionate individuals that drive you to be your best - you&apos;ve found the right place! Our transparent and entrepreneurial environment allows you to feel supported, grow your career, and have fun along the way. Everyone is encouraged to be the CEO of their job. This empowers individuals to own their role and have the confidence to explore and implement new ideas. SmartRecruiters believes in promotion from within, so high performance leads to upward mobility.</p><p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p><p> </p><p> </p>"
+         },
+         "videos":{
+            "title":"Videos To Watch",
+            "urls":[
+               "https://youtu.be/yRS7Ec05WjA",
+               "https://www.youtube.com/watch?v=3hG8b_blb6A"
+            ]
+         }
+      }
+   },
+   "function":{
+      "id":"information_technology",
+      "label":"Tecnologias da informação"
+   },
+   "department":{
+      "id":18571,
+      "label":"Engineering"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}

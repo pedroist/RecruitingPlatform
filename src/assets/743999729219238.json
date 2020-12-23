@@ -1,0 +1,97 @@
+{
+   "id":"743999729219238",
+   "name":"Customer Support Representative (Night Shifts)",
+   "uuid":"88b89cd0-37ea-44ab-80a9-24e0b584225f",
+   "refNumber":"REF782K",
+   "company":{
+      "name":"SmartRecruiters Inc",
+      "identifier":"smartrecruiters"
+   },
+   "location":{
+      "city":"Kraków",
+      "region":"małopolskie",
+      "country":"pl",
+      "address":"Fabryczna 20A",
+      "postalCode":"31-553",
+      "remote":false
+   },
+   "industry":{
+      "id":"computer_software",
+      "label":"Programas informáticos"
+   },
+   "customField":[
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98ee",
+         "fieldLabel":"Departmento",
+         "valueId":"18605",
+         "valueLabel":"Client Success"
+      },
+      {
+         "fieldId":"COUNTRY",
+         "fieldLabel":"País",
+         "valueId":"pl",
+         "valueLabel":"Polônia"
+      },
+      {
+         "fieldId":"58b7e4d6e4b0885c92cd98eb",
+         "fieldLabel":"Marcas",
+         "valueId":"default",
+         "valueLabel":"SmartRecruiters Inc"
+      },
+      {
+         "fieldId":"562ff01ce4b06de2b1d46caf",
+         "fieldLabel":"Priority",
+         "valueId":"50368069-c1aa-45c4-8cb7-4eb2da296a53",
+         "valueLabel":"P2"
+      }
+   ],
+   "releasedDate":"2020-12-23T13:00:51.000Z",
+   "creator":{
+      "name":"Integrations User",
+      "avatarUrl":""
+   },
+   "postingUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219238-customer-support-representative-night-shifts-",
+   "applyUrl":"https://jobs.smartrecruiters.com/smartrecruiters/743999729219238-customer-support-representative-night-shifts-?oga=true",
+   "referralUrl":"https://jobs.smartrecruiters.com/external-referrals/company/smartrecruiters/publication/88b89cd0-37ea-44ab-80a9-24e0b584225f?dcr_id=DCRA1",
+   "jobAd":{
+      "sections":{
+         "companyDescription":{
+            "title":"Company Description",
+            "text":"<p>At SmartRecruiters, our mission is to connect people with jobs at scale. That’s why we’ve built our modern Talent Acquisition Platform to help companies hire the best talent and to help people find a job they love! </p><p>Our platform is used by hiring teams of Twitter, Visa, Ubisoft, or McDonald’s. We also helped over 50 million candidates through their job search journey.</p><p>We understand that working hard means you should play hard too, that’s why we offer a competitive salary, generous equity, and strong career progression opportunities. We enjoy a collaborative environment that spans offices in San Francisco, Berlin, Krakow, Paris, London, and Spokane. This is a casual and pet-friendly place. Enjoy catered meals, snacks, philanthropic activities, and much more. Needless to say, we make sure you’re taken care of.</p><p>Check out our DEMO <a href=\"http://wi.st/294zm2I\">here </a></p>"
+         },
+         "jobDescription":{
+            "title":"Job Description",
+            "text":"<p>We are looking for a Customer Support Star to join an awesome team on its mission to drive success, growth, and excellence for companies who have turned to the new way of hiring. This is an opportunity to join and become an integral part of a high growth software company well on its way of changing an entire industry.</p><p>This person will be instrumental in driving the overall success of SmartRecruiters and ensure more people continue to be wowed and fall in love with SmartRecruiters&apos; hiring success methodology.</p><p>You will:</p><ul><li>Interact every day with SmartRecruiters customers to answer questions, resolve issues, educate, and help them succeed.</li><li>Provide awesome customer support for our global clients during the night shifts.</li><li>Educate and advise customers on standards, tips, and solutions on using SmartRecruiters.</li><li>Drive high level of customer satisfaction.</li><li>Identify, test, and call out technical issues.</li><li>Collaborate closely with all parts of the organization, including product management, engineering, and professional services teams to contribute and execute on our strategy to make customers successful.</li><li>Be ready to get involved and lead various projects in the support and services domain.</li><li>Be an ambassador for SmartRecruiters and its culture.</li></ul>"
+         },
+         "qualifications":{
+            "title":"Qualifications",
+            "text":"<ul><li>Excellent English skills a must!</li><li>Ability to interact and communicate professionally and confidently with a diverse customer base.</li><li>Customer support experience, preferably in the Enterprise space.</li><li>Strong interpersonal, written and spoken communication skills.</li><li>Motivated self-starter capable of taking initiative, handling objections, and negotiating tough situations.</li><li>Experience in technical customer support in a SaaS environment.</li><li>A passion for technology and a drive to change the world.</li><li>Positive, energetic, with can-do attitude.</li><li>Call center experience, a plus.</li><li>Open to work permanently during night shifts (possibility to work from home)</li><li>Other languages, a plus.</li></ul>"
+         },
+         "additionalInformation":{
+            "title":"Additional Information",
+            "text":"<p>SmartRecruiters is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.</p>"
+         }
+      }
+   },
+   "function":{
+      "id":"customer_service",
+      "label":"Serviço de apoio ao cliente"
+   },
+   "department":{
+      "id":18605,
+      "label":"Client Success"
+   },
+   "experienceLevel":{
+      "id":"mid_senior_level",
+      "label":"Com experiência"
+   },
+   "typeOfEmployment":{
+      "id":"permanent",
+      "label":"Tempo inteiro"
+   },
+   "language":{
+      "code":"en",
+      "label":"Inglês",
+      "labelNative":"English (US)"
+   }
+}
