@@ -8,7 +8,9 @@
     "ng": "ng",
     "start": "ng serve -o --port 8080",
     "build": "ng build",
-    "test": "ng test",
+    "test": "jest",
+    "test:ci": "jest --runInBand",
+    "test:watch": "jest --watch",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
@@ -55,5 +57,15 @@
     "ts-node": "~5.0.1",
     "tslint": "~5.9.1",
     "typescript": "~2.7.2"
+  },
+  "jest": {
+    "preset": "jest-preset-angular",
+    "setupFilesAfterEnv": [
+      "<rootDir>/src/setupJest.ts"
+    ],
+    "collectCoverage": true,
+    "coverageReporters": [
+      "text"
+    ]
   }
 }
