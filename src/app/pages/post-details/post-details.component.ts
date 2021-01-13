@@ -26,7 +26,6 @@ export class PostDetailsComponent implements OnInit {
     this.postsService.getPostById(id).subscribe(postJSON => {
 
       this.post = this.postsService.jsonToPostMapper(postJSON);
-      this.companyDescription = this.post.companyDescription;
     });
   }
 
